@@ -13,7 +13,11 @@ Reticulate
 
 Visual Studio Build Tools
 
-Special Thanks to 
-[React Icons](https://react-icons.github.io/react-icons/)
-[Sammit Jain](https://github.com/sammitjain) for their work in [LokSabha-Questions](https://github.com/sammitjain/loksabha-questions)
+Special Thanks
+
+[React Icons](https://react-icons.github.io/react-icons/) for their icons.
+
+[NounProject](https://thenounproject.com/) for their images and icons.
+
+[Sammit Jain](https://github.com/sammitjain) for their work in [LokSabha-Questions](https://github.com/sammitjain/loksabha-questions).
 
