@@ -5,8 +5,11 @@ This project was bootstraped with [CRA](https://github.com/facebook/create-react
 
 Pre-requisites:
 GhostImage
+
 Magick
+
 Reticulate
+
 Visual Studio Build Tools
 
 Special Thanks to 
