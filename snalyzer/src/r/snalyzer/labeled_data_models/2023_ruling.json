@@ -1,0 +1,3472 @@
+{
+  "links": [
+    {
+      "source": "Maadam, Smt. Poonamben Hematbhai",
+      "target": "JAL SHAKTI",
+      "topic": "Cultivable  Area  under  PMKSY",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4375,
+      "value": 2
+    },
+    {
+      "source": "Bhagirath Choudhary, Shri",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Upgradation  of  SHs  into  NHs",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.561,
+      "value": 2
+    },
+    {
+      "source": "Shukla, Shri Ravi Kishan",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Conversion  of  NHs  into  Four  and  Six  Lane",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5228,
+      "value": 2
+    },
+    {
+      "source": "Kushawaha, Shri Ravindra",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Conversion  of  NHs  into  Four  and  Six  Lane",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5228,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Brijendra",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Targets  under AMRUT  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5898,
+      "value": 2
+    },
+    {
+      "source": "Sharma, Shri Vishnu Datt",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Implementation  of  PM-KUSUM",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4561,
+      "value": 2
+    },
+    {
+      "source": "Gopal Jee Thakur, Shri",
+      "target": "CIVIL AVIATION",
+      "topic": "Flight  Disruptions  due  to  Fog",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4941,
+      "value": 2
+    },
+    {
+      "source": "Tiwari, Shri Manoj Kumar",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Gas  Pipeline  Projects",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.563,
+      "value": 2
+    },
+    {
+      "source": "Patil, Shri Sanjay(Kaka) Ramchandra",
+      "target": "POWER",
+      "topic": "Increase  in  Demand  for  Power",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5855,
+      "value": 2
+    },
+    {
+      "source": "Uikey, Shri Durga Das",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Work  on  NH-47",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5239,
+      "value": 2
+    },
+    {
+      "source": "Dubey, Dr. Nishikant",
+      "target": "JAL SHAKTI",
+      "topic": "Study  on  Dams",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4884,
+      "value": 2
+    },
+    {
+      "source": "Kaushik, Shri Ramesh Chander",
+      "target": "JAL SHAKTI",
+      "topic": "Forestry  Interventions  under  Namami  Gange Programme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4358,
+      "value": 2
+    },
+    {
+      "source": "Chatterjee, Smt. Locket",
+      "target": "JAL SHAKTI",
+      "topic": "Forestry  Interventions  under  Namami  Gange Programme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4358,
+      "value": 2
+    },
+    {
+      "source": "Gupta, Shri Sudheer",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "AIIMS/AIIMS  like  Institutions",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5147,
+      "value": 2
+    },
+    {
+      "source": "Joshi, Shri Chandra Prakash",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "POSHAN Abhiyaan",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5205,
+      "value": 2
+    },
+    {
+      "source": "Shukla, Shri Ravi Kishan",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Doctor  Patient  Ratio",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6326,
+      "value": 2
+    },
+    {
+      "source": "Kushawaha, Shri Ravindra",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Doctor  Patient  Ratio",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6326,
+      "value": 2
+    },
+    {
+      "source": "Koli, Smt. Ranjeeta",
+      "target": "AYUSH",
+      "topic": "New AYUSH Policy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.668,
+      "value": 2
+    },
+    {
+      "source": "Nath, Shri Balak",
+      "target": "AYUSH",
+      "topic": "New AYUSH Policy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.668,
+      "value": 2
+    },
+    {
+      "source": "Oja, Smt. Queen",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Safety  of  Women",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4851,
+      "value": 2
+    },
+    {
+      "source": "Jaiswal, Dr. Sanjay",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Healthcare  facilities  in  Bihar",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.607,
+      "value": 2
+    },
+    {
+      "source": "Chatterjee, Smt. Locket",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Upgradation  of  Government  Medical  Colleges",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4749,
+      "value": 2
+    },
+    {
+      "source": "Kaushik, Shri Ramesh Chander",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Upgradation  of  Government  Medical  Colleges",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4749,
+      "value": 2
+    },
+    {
+      "source": "Gangwar, Shri Santosh Kumar",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Spurious  Drugs",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4568,
+      "value": 2
+    },
+    {
+      "source": "Bapat, Shri Girish Bhalchandra",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Schemes  in  Healthcare  Sector",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4852,
+      "value": 2
+    },
+    {
+      "source": "Munde, Dr. Pritam Gopinath Rao",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Schemes  in  Healthcare  Sector",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4852,
+      "value": 2
+    },
+    {
+      "source": "Mahato, Shri Bidyut Baran",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Adverse  Effects  of  Junk/Fast  Food",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4528,
+      "value": 2
+    },
+    {
+      "source": "Munde, Dr. Pritam Gopinath Rao",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Plastic  Pollution",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5029,
+      "value": 2
+    },
+    {
+      "source": "Lalwani, Shri Shankar",
+      "target": "CULTURE",
+      "topic": "Digitalisation  of  Ancient  Museums",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5962,
+      "value": 2
+    },
+    {
+      "source": "Agrawal, Shri Rajendra",
+      "target": "TOURISM",
+      "topic": "Development  of  Eco-Tourism  Circuit",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5796,
+      "value": 2
+    },
+    {
+      "source": "Tripathi, Dr. Ramapati Ram",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Guidelines  for  Crematoriums",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5423,
+      "value": 2
+    },
+    {
+      "source": "Gupta, Shri Sangamlal Kadedin",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Guidelines  for  Crematoriums",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5423,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Nayab",
+      "target": "TOURISM",
+      "topic": "Development  of  Religious  Places  under PRASAD  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4199,
+      "value": 2
+    },
+    {
+      "source": "Rawat, Shri Tirath Singh",
+      "target": "EDUCATION",
+      "topic": "Bonus  to  Non-Gazetted  Officers  of  Autonomous Institutions/Organizations",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4921,
+      "value": 2
+    },
+    {
+      "source": "Chatterjee, Smt. Locket",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Dust  Mitigation  Measures",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.477,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Arjun",
+      "target": "CULTURE",
+      "topic": "Preservation  of  Cultural  Heritage in  Uttar  Pradesh",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5192,
+      "value": 2
+    },
+    {
+      "source": "Majumdar, Dr. Sukanta",
+      "target": "CULTURE",
+      "topic": "Illumination  of  Monuments",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5804,
+      "value": 2
+    },
+    {
+      "source": "Sonkar, Shri Vinod Kumar",
+      "target": "CULTURE",
+      "topic": "Illumination  of  Monuments",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5804,
+      "value": 2
+    },
+    {
+      "source": "Kateel, Shri Nalin Kumar",
+      "target": "TOURISM",
+      "topic": "Identification  of  Tourist  Destinations  under PRASAD  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4923,
+      "value": 2
+    },
+    {
+      "source": "Jadhav, Dr. Umesh G.",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "Basic  Infrastructure  for  Sports",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5687,
+      "value": 2
+    },
+    {
+      "source": "Karadi, Shri Sanganna Amarappa",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "Basic  Infrastructure  for  Sports",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5687,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Parvesh Sahib",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "MoU  to  improve  Performance  of  Sportspersons",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.46,
+      "value": 2
+    },
+    {
+      "source": "Lalwani, Shri Shankar",
+      "target": "HEAVY INDUSTRIES",
+      "topic": "Promotion  of  Electric  Vehicles",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5565,
+      "value": 2
+    },
+    {
+      "source": "Bapat, Shri Girish Bhalchandra",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Production  and  Consumption  of  Millets",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4556,
+      "value": 2
+    },
+    {
+      "source": "Gangwar, Shri Santosh Kumar",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Shortage  of  Water  for  Agriculture",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4499,
+      "value": 2
+    },
+    {
+      "source": "Munde, Dr. Pritam Gopinath Rao",
+      "target": "MINES",
+      "topic": "MoU between HCL  and  IIT",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.476,
+      "value": 2
+    },
+    {
+      "source": "Agrawal, Shri Rajendra",
+      "target": "ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "topic": "Online  Gambling  and  illegal  Betting",
+      "party": "Bharatiya Janata Party",
+      "label": "negative",
+      "score": 0.4953,
+      "value": 1
+    },
+    {
+      "source": "Vikhepatil, Dr. Sujay Radhakrishna",
+      "target": "RAILWAYS",
+      "topic": "Model  Railway  Stations",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6789,
+      "value": 2
+    },
+    {
+      "source": "Yadav, Shri Ram Kripal",
+      "target": "RAILWAYS",
+      "topic": "Amrit  Bharat  Station  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4965,
+      "value": 2
+    },
+    {
+      "source": "Gandhi, Shri Feroze Varun",
+      "target": "RAILWAYS",
+      "topic": "Accidents  on  Railway  Tracks",
+      "party": "Bharatiya Janata Party",
+      "label": "negative",
+      "score": 0.5212,
+      "value": 1
+    },
+    {
+      "source": "Bholanath (B.P. Saroj), Shri",
+      "target": "RAILWAYS",
+      "topic": "Railway  Projects",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5916,
+      "value": 2
+    },
+    {
+      "source": "Singh Deo, Smt. Sangeeta Kumari",
+      "target": "PLANNING",
+      "topic": "Development  Works  in  Aspirational  Districts",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5129,
+      "value": 2
+    },
+    {
+      "source": "Sharma, Shri Jugal Kishore",
+      "target": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "topic": "Distribution  of  Foodgrains  under  PMGKAY",
+      "party": "Bharatiya Janata Party",
+      "label": "negative",
+      "score": 0.3961,
+      "value": 1
+    },
+    {
+      "source": "Gupta, Shri Sangamlal Kadedin",
+      "target": "MINES",
+      "topic": "Allocation  of  Funds  under  PMKKKY",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5342,
+      "value": 2
+    },
+    {
+      "source": "Pratap Chandra Sarangi, Shri",
+      "target": "MINES",
+      "topic": "Allocation  of  Funds  under  PMKKKY",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5342,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Nayab",
+      "target": "RAILWAYS",
+      "topic": "Resumption  of  Delhi-Ambala  Passenger  Train",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6588,
+      "value": 2
+    },
+    {
+      "source": "Pal , Shri Jagdambika",
+      "target": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "topic": "Grain  based  Ethanol  Plants",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5177,
+      "value": 2
+    },
+    {
+      "source": "Tiwari, Shri Manoj Kumar",
+      "target": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "topic": "Khadi Products",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4627,
+      "value": 2
+    },
+    {
+      "source": "Dubey, Dr. Nishikant",
+      "target": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "topic": "Khadi Products",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4627,
+      "value": 2
+    },
+    {
+      "source": "Kundariya, Shri Mohanbhai Kalyanji",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Work  under  Smart  Cities  Mission",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5953,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Dushyant",
+      "target": "CIVIL AVIATION",
+      "topic": "Recruitment  of  ATCOs",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5642,
+      "value": 2
+    },
+    {
+      "source": "Gupta, Shri Sangamlal Kadedin",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Cities  covered  under  AMRUT",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5314,
+      "value": 2
+    },
+    {
+      "source": "Katara, Shri Kanakmal",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Cities  covered  under  AMRUT",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5314,
+      "value": 2
+    },
+    {
+      "source": "Sharma, Shri Anurag",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Brent  Crude  Oil  Price",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.534,
+      "value": 2
+    },
+    {
+      "source": "Nath, Shri Balak",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "PM-KUSUM Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4338,
+      "value": 2
+    },
+    {
+      "source": "Saraswati, Shri Sumedhanand",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "PM-KUSUM Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4338,
+      "value": 2
+    },
+    {
+      "source": "Sagar, Shri Arun Kumar",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Development  and  Maintenance  of  National Highways",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.562,
+      "value": 2
+    },
+    {
+      "source": "Meena, Shri Arjunlal",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Udaipur  Smart  City",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5075,
+      "value": 2
+    },
+    {
+      "source": "Singh Deo, Smt. Sangeeta Kumari",
+      "target": "JAL SHAKTI",
+      "topic": "Upper  Lanth  Irrigation  Project",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5894,
+      "value": 2
+    },
+    {
+      "source": "Murmu, Shri Khagen",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Work under PM-KUSUM",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4537,
+      "value": 2
+    },
+    {
+      "source": "Pachauri, Shri Satyadev",
+      "target": "CIVIL AVIATION",
+      "topic": "Cleanliness  Campaign",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5209,
+      "value": 2
+    },
+    {
+      "source": "Sharma, Shri Jugal Kishore",
+      "target": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "topic": "Use  of  Solar  Charkha  by  Khadi  Artisans",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.392,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Pradeep Kumar",
+      "target": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "topic": "Use  of  Solar  Charkha  by  Khadi  Artisans",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.392,
+      "value": 2
+    },
+    {
+      "source": "Pal , Shri Jagdambika",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Use  of  Renewable  Energy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5024,
+      "value": 2
+    },
+    {
+      "source": "Mendhe, Shri Sunil Baburao",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Setting  up  of  Medical  Colleges",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6286,
+      "value": 2
+    },
+    {
+      "source": "Chaudhary, Shri P.P.",
+      "target": "AYUSH",
+      "topic": "Ayurswasthya  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4935,
+      "value": 2
+    },
+    {
+      "source": "Sharma, Shri Anurag",
+      "target": "AYUSH",
+      "topic": "Ayurswasthya  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4935,
+      "value": 2
+    },
+    {
+      "source": "Koli, Smt. Ranjeeta",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Higher  Cost  of  Medical  Education",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5358,
+      "value": 2
+    },
+    {
+      "source": "Saraswati, Shri Sumedhanand",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Higher  Cost  of  Medical  Education",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5358,
+      "value": 2
+    },
+    {
+      "source": "Shetty, Shri Gopal Chinayya",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Free  COVID  Vaccination  Campaign",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.7242,
+      "value": 2
+    },
+    {
+      "source": "Chaudhuri, Km. Debasree",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Per  Capita  Expenditure  under  Ayushman Bharat Yojana",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5485,
+      "value": 2
+    },
+    {
+      "source": "Sinha, Shri Jayant",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Anganwadi  Workers/Helpers",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5769,
+      "value": 2
+    },
+    {
+      "source": "Sharma, Shri Jugal Kishore",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Health  Minister���s  Cancer  Patient  Fund",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4568,
+      "value": 2
+    },
+    {
+      "source": "Damor, Shri Guman Singh",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "National  Health  Mission",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.443,
+      "value": 2
+    },
+    {
+      "source": "Bisen, Dr. Dhal Singh",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "National  Health  Mission",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.443,
+      "value": 2
+    },
+    {
+      "source": "Shejwalkar, Shri Vivek Narayan",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Beneficiaries  under  Ayushman  Bharat  Yojana",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.443,
+      "value": 2
+    },
+    {
+      "source": "Rudy, Shri Rajiv Pratap",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "One  Stop  Centres",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5197,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Parvesh Sahib",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "PM  POSHAN  Scheme  in  Delhi",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5305,
+      "value": 2
+    },
+    {
+      "source": "Patil, Shri C. R.",
+      "target": "CULTURE",
+      "topic": "Restoration  and  Development  of  Monuments",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5248,
+      "value": 2
+    },
+    {
+      "source": "Kataria, Shri Rattan Lal",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Workers  Registered  in  e-Shram  Portal",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4677,
+      "value": 2
+    },
+    {
+      "source": "Sinha, Shri Jayant",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Workers  Registered  in  e-Shram  Portal",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4677,
+      "value": 2
+    },
+    {
+      "source": "Bhatia, Shri Sanjay",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Closure  of  Coal-powered  Boilers",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4367,
+      "value": 2
+    },
+    {
+      "source": "Paswan, Shri Kamlesh",
+      "target": "CULTURE",
+      "topic": "Conservation  of  Centrally  Protected Monuments",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6362,
+      "value": 2
+    },
+    {
+      "source": "Dubey, Shri Vijay Kumar",
+      "target": "CULTURE",
+      "topic": "Assistance/Incentive  Package  to  Artists  in Uttar  Pradesh",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6784,
+      "value": 2
+    },
+    {
+      "source": "Katara, Shri Kanakmal",
+      "target": "TRIBAL AFFAIRS",
+      "topic": "Economic  Development  of  Tribal  People",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5215,
+      "value": 2
+    },
+    {
+      "source": "Sonkar, Shri Vinod Kumar",
+      "target": "TOURISM",
+      "topic": "Separate  MICE  Funds  to  Support  ���Meet  in India���",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4423,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Rajveer (Raju Bhaiya)",
+      "target": "TOURISM",
+      "topic": "Separate  MICE  Funds  to  Support  ���Meet  in India���",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4423,
+      "value": 2
+    },
+    {
+      "source": "Shejwalkar, Shri Vivek Narayan",
+      "target": "FINANCE",
+      "topic": "Promotion  of  Digital  Transactions",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4299,
+      "value": 2
+    },
+    {
+      "source": "Tadas, Shri Ramdas Chandrabhanji",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Air  Pollution  in  Rural  Areas",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5712,
+      "value": 2
+    },
+    {
+      "source": "Solanki, Dr. (Prof.) Kirit Premjibhai",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Performance-based  Grants",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.7013,
+      "value": 2
+    },
+    {
+      "source": "Gopal Jee Thakur, Shri",
+      "target": "EDUCATION",
+      "topic": "Education  in  Maithili  Language",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.7102,
+      "value": 2
+    },
+    {
+      "source": "Oja, Smt. Queen",
+      "target": "CULTURE",
+      "topic": "Renovation  and  Reconstruction  of  Naamghars",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4801,
+      "value": 2
+    },
+    {
+      "source": "Gavit, Dr. Heena Vijaykumar",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "Jan  Shikshan  Sansthan  (JSS)",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4789,
+      "value": 2
+    },
+    {
+      "source": "Bapat, Shri Girish Bhalchandra",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "Budgetary  Allocation  under  PMKVY",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4542,
+      "value": 2
+    },
+    {
+      "source": "Chauhan, Shri Nihal Chand",
+      "target": "TOURISM",
+      "topic": "Development  of  Tourist  Places  in  Border  Areas of  Rajasthan",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6086,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Brijendra",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Emission  due  to  Household  Cooking",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5271,
+      "value": 2
+    },
+    {
+      "source": "Sarkar, Shri Jagannath",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Emission  due  to  Household  Cooking",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5271,
+      "value": 2
+    },
+    {
+      "source": "Munde, Dr. Pritam Gopinath Rao",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "Placement  Target  under  PMKVY",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4346,
+      "value": 2
+    },
+    {
+      "source": "Naik, Shri Raja Amareshwara",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "PMKVY 4.0",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4664,
+      "value": 2
+    },
+    {
+      "source": "Chatterjee, Smt. Locket",
+      "target": "FINANCE",
+      "topic": "Assistance  under  RIDF",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5876,
+      "value": 2
+    },
+    {
+      "source": "Kapoor, Shri Kishan",
+      "target": "CULTURE",
+      "topic": "Amount  spent  on  Ancient  Monuments  in Kangra  and  Chamba",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5106,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Ganesh",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Constitution  of  FPOs",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5729,
+      "value": 2
+    },
+    {
+      "source": "Bohra, Shri Ramcharan",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "Financial  Assistance  to  Sportspersons",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6768,
+      "value": 2
+    },
+    {
+      "source": "Murmu, Shri Khagen",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Registered  OTT  Streaming  Platforms",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6391,
+      "value": 2
+    },
+    {
+      "source": "Maadam, Smt. Poonamben Hematbhai",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Chemical  Free  Agriculture",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4609,
+      "value": 2
+    },
+    {
+      "source": "Kaushik, Shri Ramesh Chander",
+      "target": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "topic": "Schemes  on  Fisheries,  Animal  Husbandry  and Dairying",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4203,
+      "value": 2
+    },
+    {
+      "source": "Kataria, Shri Rattan Lal",
+      "target": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "topic": "Growth  in  Fish  Production",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4671,
+      "value": 2
+    },
+    {
+      "source": "Sarangi, Smt. Aparajita",
+      "target": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "topic": "Creation  of  Fodder  Farmer  Producer Organisations",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4129,
+      "value": 2
+    },
+    {
+      "source": "Kaswan, Shri Rahul",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Doubling  of  Farmers���  Income",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4364,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Pashupati Nath",
+      "target": "HOME AFFAIRS",
+      "topic": "Naxal  affected  Districts",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6101,
+      "value": 2
+    },
+    {
+      "source": "Gopal Jee Thakur, Shri",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Setting  up  of  Regional  FM  Radio  Stations",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4843,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Lallu",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "PMAY  in  Chhattisgarh",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4408,
+      "value": 2
+    },
+    {
+      "source": "Joshi, Shri Chandra Prakash",
+      "target": "TEXTILES",
+      "topic": "Welfare  Schemes  for  Handloom  Weavers",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6083,
+      "value": 2
+    },
+    {
+      "source": "Nagar, Shri Rodmal",
+      "target": "TEXTILES",
+      "topic": "Welfare  Schemes  for  Handloom  Weavers",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6083,
+      "value": 2
+    },
+    {
+      "source": "Kataria, Shri Rattan Lal",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "Export  of  Spices",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4432,
+      "value": 2
+    },
+    {
+      "source": "Pal , Shri Jagdambika",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "ODOP  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4795,
+      "value": 2
+    },
+    {
+      "source": "Bhamre, Dr. Subhash Ramrao",
+      "target": "COMMUNICATIONS",
+      "topic": "BSNL  5G  Services",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.486,
+      "value": 2
+    },
+    {
+      "source": "Shrangare, Shri Sudhakar Tukaram",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "Export  of  Agricultural  and  Processed  Food Products",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.616,
+      "value": 2
+    },
+    {
+      "source": "Sao, Shri Arun",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "Export  of  Agricultural  and  Processed  Food Products",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.616,
+      "value": 2
+    },
+    {
+      "source": "Roy, Dr. Rajdeep",
+      "target": "RAILWAYS",
+      "topic": "Extension  of  Vista  dome  Tourist  Express",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5856,
+      "value": 2
+    },
+    {
+      "source": "Kundariya, Shri Mohanbhai Kalyanji",
+      "target": "RAILWAYS",
+      "topic": "Maintenance  of  New  Pit  Lines",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4235,
+      "value": 2
+    },
+    {
+      "source": "Munde, Dr. Pritam Gopinath Rao",
+      "target": "TEXTILES",
+      "topic": "Setting  up  of  Incubation  Centres",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5861,
+      "value": 2
+    },
+    {
+      "source": "Nishank, Dr. Ramesh Pokhriyal",
+      "target": "RAILWAYS",
+      "topic": "Rishikesh-Karnaprayag  Rail  Line",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5221,
+      "value": 2
+    },
+    {
+      "source": "Rudy, Shri Rajiv Pratap",
+      "target": "ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "topic": "Setting  up  of  Electronic  Manufacturing Clusters",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5038,
+      "value": 2
+    },
+    {
+      "source": "Chaudhuri, Km. Debasree",
+      "target": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "topic": "Dues  of  Sugar  Mills  to  Farmers",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4868,
+      "value": 2
+    },
+    {
+      "source": "Kushawaha, Shri Ravindra",
+      "target": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "topic": "Setting  up  of  Task  Force  for  Sugar  Industry",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4562,
+      "value": 2
+    },
+    {
+      "source": "Shukla, Shri Ravi Kishan",
+      "target": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "topic": "Setting  up  of  Task  Force  for  Sugar  Industry",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4562,
+      "value": 2
+    },
+    {
+      "source": "Patel, Shri Mitesh Rameshbhai",
+      "target": "JAL SHAKTI",
+      "topic": "Health  Hazards  caused by  Contaminated  Water",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4478,
+      "value": 2
+    },
+    {
+      "source": "Patel, Smt. Sharda Anilkumar",
+      "target": "JAL SHAKTI",
+      "topic": "Health  Hazards  caused by  Contaminated  Water",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4478,
+      "value": 2
+    },
+    {
+      "source": "Gangwar, Shri Santosh Kumar",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Benefits  of  Solar  Energy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5523,
+      "value": 2
+    },
+    {
+      "source": "Chatterjee, Smt. Locket",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Development  of  National  Highways",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4515,
+      "value": 2
+    },
+    {
+      "source": "Kaushik, Shri Ramesh Chander",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Development  of  National  Highways",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4515,
+      "value": 2
+    },
+    {
+      "source": "Damor, Shri Guman Singh",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Improvement  of  Urban  Infrastructure",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4765,
+      "value": 2
+    },
+    {
+      "source": "Tiwari, Shri Manoj Kumar",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Bio  Energy  Plants  in  Rural  Areas",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5628,
+      "value": 2
+    },
+    {
+      "source": "Dubey, Dr. Nishikant",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Bio  Energy  Plants  in  Rural  Areas",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5628,
+      "value": 2
+    },
+    {
+      "source": "Kaswan, Shri Rahul",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Development  of  Slums",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4973,
+      "value": 2
+    },
+    {
+      "source": "Shukla, Shri Ravi Kishan",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Development  of  Slums",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4973,
+      "value": 2
+    },
+    {
+      "source": "Chauhan, Shri Nihal Chand",
+      "target": "POWER",
+      "topic": "Ongoing  Hydro-Power  Projects",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.652,
+      "value": 2
+    },
+    {
+      "source": "Shrangare, Shri Sudhakar Tukaram",
+      "target": "JAL SHAKTI",
+      "topic": "Revival  of  Traditional  Water  Bodies",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4549,
+      "value": 2
+    },
+    {
+      "source": "Agrawal, Shri Rajendra",
+      "target": "JAL SHAKTI",
+      "topic": "Revival  of  Traditional  Water  Bodies",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4549,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Lallu",
+      "target": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "topic": "Green  Technology  in  MSMEs",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5037,
+      "value": 2
+    },
+    {
+      "source": "Yadav, Dr. Krishnapal Singh",
+      "target": "AYUSH",
+      "topic": "Funds  for  National  AYUSH  Mission",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5238,
+      "value": 2
+    },
+    {
+      "source": "Patil, Shri Unmesh Bhaiyyasaheb",
+      "target": "AYUSH",
+      "topic": "Funds  for  National  AYUSH  Mission",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5238,
+      "value": 2
+    },
+    {
+      "source": "Bhamre, Dr. Subhash Ramrao",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Online  Sale  of  Medicines",
+      "party": "Bharatiya Janata Party",
+      "label": "negative",
+      "score": 0.4427,
+      "value": 1
+    },
+    {
+      "source": "Jaiswal, Dr. Sanjay",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Cashless  Facilities  to  Pensioners  under  CGHS",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4362,
+      "value": 2
+    },
+    {
+      "source": "Shetty, Shri Gopal Chinayya",
+      "target": "PORTS, SHIPPING AND WATERWAYS",
+      "topic": "Development  of  Rivers",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6655,
+      "value": 2
+    },
+    {
+      "source": "Panda, Shri Basanta Kumar",
+      "target": "AYUSH",
+      "topic": "Schemes  Run  by  Union  Government  in  Odisha",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6929,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Brijendra",
+      "target": "PORTS, SHIPPING AND WATERWAYS",
+      "topic": "Oil  Spill  incidents  in  Ports",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5708,
+      "value": 2
+    },
+    {
+      "source": "Kachhadiya, Shri Naranbhai Bhikhabhai",
+      "target": "AYUSH",
+      "topic": "Promotion  of  Medicinal  Plants",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4536,
+      "value": 2
+    },
+    {
+      "source": "Kashyap, Shri Dharmendra Kumar",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Scheme  to  improve  Nutrition  Level  of Pregnant  Women",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5674,
+      "value": 2
+    },
+    {
+      "source": "Paswan, Shri Kamlesh",
+      "target": "LAW AND JUSTICE",
+      "topic": "Disposal  of  Dowry  Cases",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5639,
+      "value": 2
+    },
+    {
+      "source": "Seth, Shri Sanjay",
+      "target": "LAW AND JUSTICE",
+      "topic": "Legal Education in Hindi and Regional Languages",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5947,
+      "value": 2
+    },
+    {
+      "source": "Hema Malini, Smt.",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Public  Health  Spending  as  a  Percentage  of GDP",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5215,
+      "value": 2
+    },
+    {
+      "source": "Kundariya, Shri Mohanbhai Kalyanji",
+      "target": "DEFENCE",
+      "topic": "Defence  Aerospace  Production  at  Rajkot",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6376,
+      "value": 2
+    },
+    {
+      "source": "Dilip, Shri Saikia",
+      "target": "DEVELOPMENT OF NORTH EASTERN REGION",
+      "topic": "Infrastructure  Development  in  North  Eastern States",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5224,
+      "value": 2
+    },
+    {
+      "source": "Patil, Shri Sanjay(Kaka) Ramchandra",
+      "target": "EDUCATION",
+      "topic": "National  Eligibility  Test",
+      "party": "Bharatiya Janata Party",
+      "label": "negative",
+      "score": 0.4399,
+      "value": 1
+    },
+    {
+      "source": "Gogoi, Shri Topon Kumar",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Hoollongapar  Gibbon  Sanctuary",
+      "party": "Bharatiya Janata Party",
+      "label": "negative",
+      "score": 0.4271,
+      "value": 1
+    },
+    {
+      "source": "Verma, Shri Rajesh",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Database  of  Migrant  Labourers",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5513,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Bhola",
+      "target": "CORPORATE AFFAIRS",
+      "topic": "Fraud  by  Sahara  India  Group",
+      "party": "Bharatiya Janata Party",
+      "label": "negative",
+      "score": 0.5485,
+      "value": 1
+    },
+    {
+      "source": "Majumdar, Dr. Sukanta",
+      "target": "CORPORATE AFFAIRS",
+      "topic": "Fraud  by  Sahara  India  Group",
+      "party": "Bharatiya Janata Party",
+      "label": "negative",
+      "score": 0.5485,
+      "value": 1
+    },
+    {
+      "source": "Bholanath (B.P. Saroj), Shri",
+      "target": "EDUCATION",
+      "topic": "Fake  Universities",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4861,
+      "value": 2
+    },
+    {
+      "source": "Bhagirath Choudhary, Shri",
+      "target": "EDUCATION",
+      "topic": "Fake  Universities",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4861,
+      "value": 2
+    },
+    {
+      "source": "Maadam, Smt. Poonamben Hematbhai",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "Pradhan  Mantri  Kaushal  Kendras",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4971,
+      "value": 2
+    },
+    {
+      "source": "Tripathi, Dr. Ramapati Ram",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Achievements  and  Objectives  of  ESIC  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5567,
+      "value": 2
+    },
+    {
+      "source": "Chaudhary, Shri P.P.",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Achievements  and  Objectives  of  ESIC  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5567,
+      "value": 2
+    },
+    {
+      "source": "Gangwar, Shri Santosh Kumar",
+      "target": "FINANCE",
+      "topic": "Demonetization  and  Currency  Circulation",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5053,
+      "value": 2
+    },
+    {
+      "source": "Sharma, Shri Jugal Kishore",
+      "target": "FOOD PROCESSING INDUSTRIES",
+      "topic": "Stakeholders  of  Food  Processing  Sector",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4235,
+      "value": 2
+    },
+    {
+      "source": "Pathak, Smt. Riti",
+      "target": "FOOD PROCESSING INDUSTRIES",
+      "topic": "Stakeholders  of  Food  Processing  Sector",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4235,
+      "value": 2
+    },
+    {
+      "source": "Rajoria, Dr. Manoj",
+      "target": "PANCHAYATI RAJ",
+      "topic": "Survey  under  SVAMITVA  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5863,
+      "value": 2
+    },
+    {
+      "source": "Saraswati, Shri Sumedhanand",
+      "target": "PANCHAYATI RAJ",
+      "topic": "Survey  under  SVAMITVA  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5863,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Nayab",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Paramparagat  Krishi  Vikas  Yojana",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4757,
+      "value": 2
+    },
+    {
+      "source": "Patil, Shri Gyaneshwar",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Paramparagat  Krishi  Vikas  Yojana",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4757,
+      "value": 2
+    },
+    {
+      "source": "Sharma, Shri Anurag",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Problems  Faced  by  Cultivators  of  Paddy  Crops",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5016,
+      "value": 2
+    },
+    {
+      "source": "Tripathi, Dr. Ramapati Ram",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Problems  Faced  by  Cultivators  of  Paddy  Crops",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5016,
+      "value": 2
+    },
+    {
+      "source": "Patil, Shri Unmesh Bhaiyyasaheb",
+      "target": "HEAVY INDUSTRIES",
+      "topic": "Cost  incurred  on  Manufacturing  of  EVs",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5984,
+      "value": 2
+    },
+    {
+      "source": "Vikhepatil, Dr. Sujay Radhakrishna",
+      "target": "HEAVY INDUSTRIES",
+      "topic": "Cost  incurred  on  Manufacturing  of  EVs",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5984,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Rajveer (Raju Bhaiya)",
+      "target": "FOOD PROCESSING INDUSTRIES",
+      "topic": "Implementation  of  PMFME  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4725,
+      "value": 2
+    },
+    {
+      "source": "Sonkar, Shri Vinod Kumar",
+      "target": "FOOD PROCESSING INDUSTRIES",
+      "topic": "Implementation  of  PMFME  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4725,
+      "value": 2
+    },
+    {
+      "source": "Bhatia, Shri Sanjay",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Review  of  Developmental  Works  under MGNREGS",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4632,
+      "value": 2
+    },
+    {
+      "source": "Pathak, Smt. Riti",
+      "target": "ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "topic": "Opportunity  in  Technology  Sector",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4238,
+      "value": 2
+    },
+    {
+      "source": "Patel, Shri Parbatbhai Savabhai",
+      "target": "ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "topic": "Opportunity  in  Technology  Sector",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4238,
+      "value": 2
+    },
+    {
+      "source": "Sao, Shri Arun",
+      "target": "EARTH SCIENCES",
+      "topic": "Establishment  of  DAMU",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5258,
+      "value": 2
+    },
+    {
+      "source": "Chatterjee, Smt. Locket",
+      "target": "RAILWAYS",
+      "topic": "Redevelopment  of  Stations  to  International Standards",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4521,
+      "value": 2
+    },
+    {
+      "source": "Jaunapuria, Shri Sukhbir Singh",
+      "target": "RAILWAYS",
+      "topic": "Redevelopment  of  Stations  to  International Standards",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4521,
+      "value": 2
+    },
+    {
+      "source": "Pathak, Shri Subrat",
+      "target": "PRIME MINISTER",
+      "topic": "Children  Education  Allowance",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4746,
+      "value": 2
+    },
+    {
+      "source": "Das, Shri Pallab Lochan",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "Investment  in  Assam",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5817,
+      "value": 2
+    },
+    {
+      "source": "Oram, Shri Jual",
+      "target": "MINES",
+      "topic": "Auction  of  Non-Coal  Mineral  Blocks",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5375,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Pashupati Nath",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "Closure  of  Industries",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6915,
+      "value": 2
+    },
+    {
+      "source": "Duggal, Smt. Sunita",
+      "target": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "topic": "Right  to  Repair  in  Promoting  Circular Economy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.505,
+      "value": 2
+    },
+    {
+      "source": "Bholanath (B.P. Saroj), Shri",
+      "target": "COMMUNICATIONS",
+      "topic": "Broadband  Connectivity  under  BharatNet",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5572,
+      "value": 2
+    },
+    {
+      "source": "Baghel, Shri Vijay",
+      "target": "ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "topic": "Access  of  Children  to  Obscene  Websites",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5036,
+      "value": 2
+    },
+    {
+      "source": "Oja, Smt. Queen",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "PNG  Connections",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5764,
+      "value": 2
+    },
+    {
+      "source": "Gao, Shri Tapir",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Number  of  Homeless  People",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5004,
+      "value": 2
+    },
+    {
+      "source": "Bapat, Shri Girish Bhalchandra",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Extension  of  Benefits  of  PMUY",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4692,
+      "value": 2
+    },
+    {
+      "source": "Gavit, Dr. Heena Vijaykumar",
+      "target": "JAL SHAKTI",
+      "topic": "Funds  for  Jal  Jeevan  Mission",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4975,
+      "value": 2
+    },
+    {
+      "source": "Yadav, Dr. Krishnapal Singh",
+      "target": "JAL SHAKTI",
+      "topic": "Funds  for  Jal  Jeevan  Mission",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4975,
+      "value": 2
+    },
+    {
+      "source": "Rawat, Shri Ashok Kumar",
+      "target": "POWER",
+      "topic": "Integrated  Power  Development  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5264,
+      "value": 2
+    },
+    {
+      "source": "Dilip, Shri Saikia",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "National  Green  Hydrogen  Policy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5453,
+      "value": 2
+    },
+    {
+      "source": "Naik Nimbalkar, Shri Ranjeetsingh",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "National  Green  Hydrogen  Policy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5453,
+      "value": 2
+    },
+    {
+      "source": "Kushawaha, Shri Ravindra",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Production  of  Solar  Energy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5781,
+      "value": 2
+    },
+    {
+      "source": "Shukla, Shri Ravi Kishan",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Production  of  Solar  Energy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5781,
+      "value": 2
+    },
+    {
+      "source": "Gangwar, Shri Santosh Kumar",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Crude  Oil  Price",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5031,
+      "value": 2
+    },
+    {
+      "source": "Pal , Shri Jagdambika",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Problem  of  Traffic  Congestion  in  Delhi",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.3842,
+      "value": 2
+    },
+    {
+      "source": "Patel, Shri Gajendra Singh",
+      "target": "POWER",
+      "topic": "Electricity  Supply  in  Rural  Areas",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5504,
+      "value": 2
+    },
+    {
+      "source": "Murmu, Shri Khagen",
+      "target": "JAL SHAKTI",
+      "topic": "Jal  Shakti  Abhiyan",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4836,
+      "value": 2
+    },
+    {
+      "source": "Pathak, Shri Subrat",
+      "target": "JAL SHAKTI",
+      "topic": "Jal  Shakti  Abhiyan",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4836,
+      "value": 2
+    },
+    {
+      "source": "Mahato, Shri Bidyut Baran",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Cases  of  Leprosy",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4294,
+      "value": 2
+    },
+    {
+      "source": "Kaswan, Shri Rahul",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Ayushman  Bharat  Yojana  for  Health  Care Services",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4687,
+      "value": 2
+    },
+    {
+      "source": "Sao, Shri Arun",
+      "target": "AYUSH",
+      "topic": "Measures  to  Improve  AYUSH  Infrastructure",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5432,
+      "value": 2
+    },
+    {
+      "source": "Roy, Dr. Jayanta Kumar",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Revision  of  CGHS  Charges  in  Empanelled Hospitals",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6147,
+      "value": 2
+    },
+    {
+      "source": "Singh Deo, Smt. Sangeeta Kumari",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Revision  of  CGHS  Charges  in  Empanelled Hospitals",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6147,
+      "value": 2
+    },
+    {
+      "source": "Shejwalkar, Shri Vivek Narayan",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Anganwadi  Centres  in  Madhya  Pradesh",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.582,
+      "value": 2
+    },
+    {
+      "source": "Gopal Jee Thakur, Shri",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Provision  of  Medicines  through  Jan  Aushadhi Kendras",
+      "party": "Bharatiya Janata Party",
+      "label": "negative",
+      "score": 0.3914,
+      "value": 1
+    },
+    {
+      "source": "Rajoria, Dr. Manoj",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Sale  of  AYUSH  Medicines  in  Jan  Aushadhi Kendras",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5232,
+      "value": 2
+    },
+    {
+      "source": "Saraswati, Shri Sumedhanand",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Sale  of  AYUSH  Medicines  in  Jan  Aushadhi Kendras",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5232,
+      "value": 2
+    },
+    {
+      "source": "Sinha, Shri Jayant",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Selection  of  Medicines  under  PMBJP",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.48,
+      "value": 2
+    },
+    {
+      "source": "Dubey, Shri Vijay Kumar",
+      "target": "TOURISM",
+      "topic": "Setting  up  of  Rural  Tourism  Clusters  and Parks",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5691,
+      "value": 2
+    },
+    {
+      "source": "Y, Shri Devendrappa",
+      "target": "TRIBAL AFFAIRS",
+      "topic": "Van  Dhan  Vikas  Yojana",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4381,
+      "value": 2
+    },
+    {
+      "source": "Sinha, Shri Jayant",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "Skill  Development  in  Jharkhand",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5657,
+      "value": 2
+    },
+    {
+      "source": "Chandel, Kunwar Pushpendra Singh",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Migration  for  Employment",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4829,
+      "value": 2
+    },
+    {
+      "source": "Bohra, Shri Ramcharan",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Migration  for  Employment",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4829,
+      "value": 2
+    },
+    {
+      "source": "Chatterjee, Smt. Locket",
+      "target": "FINANCE",
+      "topic": "Payment  of  dues  to  States",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.632,
+      "value": 2
+    },
+    {
+      "source": "Joshi, Prof. Rita Bahuguna",
+      "target": "TRIBAL AFFAIRS",
+      "topic": "Socio-economic  Condition  of  Tribals",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6108,
+      "value": 2
+    },
+    {
+      "source": "Gavit, Dr. Heena Vijaykumar",
+      "target": "TRIBAL AFFAIRS",
+      "topic": "Socio-economic  Condition  of  Tribals",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6108,
+      "value": 2
+    },
+    {
+      "source": "Katara, Shri Kanakmal",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "PMKVY  to  Tribal  Dominated Area",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4733,
+      "value": 2
+    },
+    {
+      "source": "Pratap Chandra Sarangi, Shri",
+      "target": "EDUCATION",
+      "topic": "STARS  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5822,
+      "value": 2
+    },
+    {
+      "source": "Solanky, Shri Mahendra Singh",
+      "target": "EDUCATION",
+      "topic": "STARS  Scheme",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5822,
+      "value": 2
+    },
+    {
+      "source": "Saraswati, Shri Sumedhanand",
+      "target": "CULTURE",
+      "topic": "Centrally  Protected  Monuments",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5681,
+      "value": 2
+    },
+    {
+      "source": "Rajoria, Dr. Manoj",
+      "target": "CULTURE",
+      "topic": "Centrally  Protected  Monuments",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5681,
+      "value": 2
+    },
+    {
+      "source": "Solanki, Dr. (Prof.) Kirit Premjibhai",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Alternatives  to  Tobacco  Crop",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5204,
+      "value": 2
+    },
+    {
+      "source": "Gangwar, Shri Santosh Kumar",
+      "target": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "topic": "Use  of  Chemical  Formalin  in  Preservation  of Fish",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4678,
+      "value": 2
+    },
+    {
+      "source": "Shrangare, Shri Sudhakar Tukaram",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Expansion  of  Horticulture  Value  Chain",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4491,
+      "value": 2
+    },
+    {
+      "source": "Rawat, Shri Ashok Kumar",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Projects  under  PMGSY",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4479,
+      "value": 2
+    },
+    {
+      "source": "Kashyap, Shri Dharmendra Kumar",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Projects  under  PMGSY",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4479,
+      "value": 2
+    },
+    {
+      "source": "Meena, Shri Arjunlal",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Scheme  for  Micro  Irrigation",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4524,
+      "value": 2
+    },
+    {
+      "source": "Patel, Shri Gajendra Singh",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Promotion  of  Organic  Farming",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5147,
+      "value": 2
+    },
+    {
+      "source": "Kushawaha, Shri Ravindra",
+      "target": "HEAVY INDUSTRIES",
+      "topic": "Jobs  in  Automobile  Sector",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6408,
+      "value": 2
+    },
+    {
+      "source": "Shukla, Shri Ravi Kishan",
+      "target": "HEAVY INDUSTRIES",
+      "topic": "Jobs  in  Automobile  Sector",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.6408,
+      "value": 2
+    },
+    {
+      "source": "Saraswati, Shri Sumedhanand",
+      "target": "SOCIAL JUSTICE AND EMPOWERMENT",
+      "topic": "De-addiction  Centres",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5356,
+      "value": 2
+    },
+    {
+      "source": "Koli, Smt. Ranjeeta",
+      "target": "SOCIAL JUSTICE AND EMPOWERMENT",
+      "topic": "De-addiction  Centres",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.5356,
+      "value": 2
+    },
+    {
+      "source": "Chavda, Shri Vinod",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "PMAY-G in Gujarat",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.414,
+      "value": 2
+    },
+    {
+      "source": "Maurya, Dr. Sanghamitra",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Commencement  of  Work  under  next  Phase  of PMAY-G",
+      "party": "Bharatiya Janata Party",
+      "label": "neutral",
+      "score": 0.4571,
+      "value": 2
+    }
+  ],
+  "nodes": [
+    {
+      "id": "JAL SHAKTI",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PETROLEUM AND NATURAL GAS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "ROAD TRANSPORT AND HIGHWAYS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "HOUSING AND URBAN AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "POWER",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "NEW AND RENEWABLE ENERGY",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CIVIL AVIATION",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "HEALTH AND FAMILY WELFARE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "EXTERNAL AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "DEFENCE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "WOMEN AND CHILD DEVELOPMENT",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "AYUSH",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CHEMICALS AND FERTILIZERS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "LAW AND JUSTICE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PORTS, SHIPPING AND WATERWAYS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "LABOUR AND EMPLOYMENT",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "EDUCATION",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "FINANCE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "TOURISM",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CULTURE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "AGRICULTURE AND FARMERS WELFARE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "FOOD PROCESSING INDUSTRIES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "YOUTH AFFAIRS AND SPORTS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "RURAL DEVELOPMENT",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PANCHAYATI RAJ",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "HEAVY INDUSTRIES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "INFORMATION AND BROADCASTING",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "SOCIAL JUSTICE AND EMPOWERMENT",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "COMMERCE AND INDUSTRY",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "MINES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "RAILWAYS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PLANNING",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PRIME MINISTER",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "COMMUNICATIONS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "TEXTILES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "MINORITY AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CORPORATE AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "TRIBAL AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "HOME AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "TECHNOLOGY",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "COAL",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "DEVELOPMENT OF NORTH EASTERN REGION",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "EARTH SCIENCES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "Maadam, Smt. Poonamben Hematbhai",
+      "party": "Bharatiya Janata Party",
+      "state": "Gujarat",
+      "constituency": "Jamnagar",
+      "group": 5
+    },
+    {
+      "id": "Bhagirath Choudhary, Shri",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Ajmer",
+      "group": 5
+    },
+    {
+      "id": "Shukla, Shri Ravi Kishan",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Gorakhpur",
+      "group": 5
+    },
+    {
+      "id": "Kushawaha, Shri Ravindra",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Salempur",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Brijendra",
+      "party": "Bharatiya Janata Party",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "group": 5
+    },
+    {
+      "id": "Sharma, Shri Vishnu Datt",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Khajuraho",
+      "group": 5
+    },
+    {
+      "id": "Gopal Jee Thakur, Shri",
+      "party": "Bharatiya Janata Party",
+      "state": "Bihar",
+      "constituency": "Darbhanga",
+      "group": 5
+    },
+    {
+      "id": "Tiwari, Shri Manoj Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "NCT of Delhi",
+      "constituency": "North East Delhi",
+      "group": 5
+    },
+    {
+      "id": "Patil, Shri Sanjay(Kaka) Ramchandra",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Sangli",
+      "group": 5
+    },
+    {
+      "id": "Uikey, Shri Durga Das",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Betul",
+      "group": 5
+    },
+    {
+      "id": "Dubey, Dr. Nishikant",
+      "party": "Bharatiya Janata Party",
+      "state": "Jharkhand",
+      "constituency": "Godda",
+      "group": 5
+    },
+    {
+      "id": "Kaushik, Shri Ramesh Chander",
+      "party": "Bharatiya Janata Party",
+      "state": "Haryana",
+      "constituency": "Sonipat",
+      "group": 5
+    },
+    {
+      "id": "Chatterjee, Smt. Locket",
+      "party": "Bharatiya Janata Party",
+      "state": "West Bengal",
+      "constituency": "Hooghly",
+      "group": 5
+    },
+    {
+      "id": "Gupta, Shri Sudheer",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Mandsour",
+      "group": 5
+    },
+    {
+      "id": "Joshi, Shri Chandra Prakash",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Chittorgarh",
+      "group": 5
+    },
+    {
+      "id": "Koli, Smt. Ranjeeta",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Bharatpur",
+      "group": 5
+    },
+    {
+      "id": "Nath, Shri Balak",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Alwar",
+      "group": 5
+    },
+    {
+      "id": "Oja, Smt. Queen",
+      "party": "Bharatiya Janata Party",
+      "state": "Assam",
+      "constituency": "Gauhati",
+      "group": 5
+    },
+    {
+      "id": "Jaiswal, Dr. Sanjay",
+      "party": "Bharatiya Janata Party",
+      "state": "Bihar",
+      "constituency": "Paschim Champaran",
+      "group": 5
+    },
+    {
+      "id": "Gangwar, Shri Santosh Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bareilly",
+      "group": 5
+    },
+    {
+      "id": "Bapat, Shri Girish Bhalchandra",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Pune",
+      "group": 5
+    },
+    {
+      "id": "Munde, Dr. Pritam Gopinath Rao",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "group": 5
+    },
+    {
+      "id": "Mahato, Shri Bidyut Baran",
+      "party": "Bharatiya Janata Party",
+      "state": "Jharkhand",
+      "constituency": "Jamshedpur",
+      "group": 5
+    },
+    {
+      "id": "Lalwani, Shri Shankar",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Indore",
+      "group": 5
+    },
+    {
+      "id": "Agrawal, Shri Rajendra",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Meerut",
+      "group": 5
+    },
+    {
+      "id": "Tripathi, Dr. Ramapati Ram",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Deoria",
+      "group": 5
+    },
+    {
+      "id": "Gupta, Shri Sangamlal Kadedin",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Pratapgarh",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Nayab",
+      "party": "Bharatiya Janata Party",
+      "state": "Haryana",
+      "constituency": "Kurukshetra",
+      "group": 5
+    },
+    {
+      "id": "Rawat, Shri Tirath Singh",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttarakhand",
+      "constituency": "Garhwal",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Arjun",
+      "party": "Bharatiya Janata Party",
+      "state": "West Bengal",
+      "constituency": "Barrackpur",
+      "group": 5
+    },
+    {
+      "id": "Majumdar, Dr. Sukanta",
+      "party": "Bharatiya Janata Party",
+      "state": "West Bengal",
+      "constituency": "Balurghat",
+      "group": 5
+    },
+    {
+      "id": "Sonkar, Shri Vinod Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Kaushambi",
+      "group": 5
+    },
+    {
+      "id": "Kateel, Shri Nalin Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Karnataka",
+      "constituency": "Dakshina Kannada",
+      "group": 5
+    },
+    {
+      "id": "Jadhav, Dr. Umesh G.",
+      "party": "Bharatiya Janata Party",
+      "state": "Karnataka",
+      "constituency": "Gulbarga",
+      "group": 5
+    },
+    {
+      "id": "Karadi, Shri Sanganna Amarappa",
+      "party": "Bharatiya Janata Party",
+      "state": "Karnataka",
+      "constituency": "Koppal",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Parvesh Sahib",
+      "party": "Bharatiya Janata Party",
+      "state": "NCT of Delhi",
+      "constituency": "West Delhi",
+      "group": 5
+    },
+    {
+      "id": "Vikhepatil, Dr. Sujay Radhakrishna",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Ahmednagar",
+      "group": 5
+    },
+    {
+      "id": "Yadav, Shri Ram Kripal",
+      "party": "Bharatiya Janata Party",
+      "state": "Bihar",
+      "constituency": "Pataliputra",
+      "group": 5
+    },
+    {
+      "id": "Gandhi, Shri Feroze Varun",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Pilibhit",
+      "group": 5
+    },
+    {
+      "id": "Bholanath (B.P. Saroj), Shri",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Machhlishahr",
+      "group": 5
+    },
+    {
+      "id": "Singh Deo, Smt. Sangeeta Kumari",
+      "party": "Bharatiya Janata Party",
+      "state": "Odisha",
+      "constituency": "Bolangir",
+      "group": 5
+    },
+    {
+      "id": "Sharma, Shri Jugal Kishore",
+      "party": "Bharatiya Janata Party",
+      "state": "Jammu and Kashmir",
+      "constituency": "Jammu",
+      "group": 5
+    },
+    {
+      "id": "Pratap Chandra Sarangi, Shri",
+      "party": "Bharatiya Janata Party",
+      "state": "Odisha",
+      "constituency": "Balasore",
+      "group": 5
+    },
+    {
+      "id": "Pal , Shri Jagdambika",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Domariyaganj",
+      "group": 5
+    },
+    {
+      "id": "Kundariya, Shri Mohanbhai Kalyanji",
+      "party": "Bharatiya Janata Party",
+      "state": "Gujarat",
+      "constituency": "Rajkot",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Dushyant",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Jhalawar-Baran",
+      "group": 5
+    },
+    {
+      "id": "Katara, Shri Kanakmal",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Banswara",
+      "group": 5
+    },
+    {
+      "id": "Sharma, Shri Anurag",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Jhansi",
+      "group": 5
+    },
+    {
+      "id": "Saraswati, Shri Sumedhanand",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Sikar",
+      "group": 5
+    },
+    {
+      "id": "Sagar, Shri Arun Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Shahjahanpur",
+      "group": 5
+    },
+    {
+      "id": "Meena, Shri Arjunlal",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Udaipur",
+      "group": 5
+    },
+    {
+      "id": "Murmu, Shri Khagen",
+      "party": "Bharatiya Janata Party",
+      "state": "West Bengal",
+      "constituency": "Maldaha Uttar",
+      "group": 5
+    },
+    {
+      "id": "Pachauri, Shri Satyadev",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Kanpur",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Pradeep Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Bihar",
+      "constituency": "Araria",
+      "group": 5
+    },
+    {
+      "id": "Mendhe, Shri Sunil Baburao",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Bhandara-Gondiya",
+      "group": 5
+    },
+    {
+      "id": "Chaudhary, Shri P.P.",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Pali",
+      "group": 5
+    },
+    {
+      "id": "Shetty, Shri Gopal Chinayya",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Mumbai-North",
+      "group": 5
+    },
+    {
+      "id": "Chaudhuri, Km. Debasree",
+      "party": "Bharatiya Janata Party",
+      "state": "West Bengal",
+      "constituency": "Raiganj",
+      "group": 5
+    },
+    {
+      "id": "Sinha, Shri Jayant",
+      "party": "Bharatiya Janata Party",
+      "state": "Jharkhand",
+      "constituency": "Hazaribagh",
+      "group": 5
+    },
+    {
+      "id": "Damor, Shri Guman Singh",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Ratlam",
+      "group": 5
+    },
+    {
+      "id": "Bisen, Dr. Dhal Singh",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Balaghat",
+      "group": 5
+    },
+    {
+      "id": "Shejwalkar, Shri Vivek Narayan",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Gwalior",
+      "group": 5
+    },
+    {
+      "id": "Rudy, Shri Rajiv Pratap",
+      "party": "Bharatiya Janata Party",
+      "state": "Bihar",
+      "constituency": "Saran",
+      "group": 5
+    },
+    {
+      "id": "Patil, Shri C. R.",
+      "party": "Bharatiya Janata Party",
+      "state": "Gujarat",
+      "constituency": "Navsari",
+      "group": 5
+    },
+    {
+      "id": "Kataria, Shri Rattan Lal",
+      "party": "Bharatiya Janata Party",
+      "state": "Haryana",
+      "constituency": "Ambala",
+      "group": 5
+    },
+    {
+      "id": "Bhatia, Shri Sanjay",
+      "party": "Bharatiya Janata Party",
+      "state": "Haryana",
+      "constituency": "Karnal",
+      "group": 5
+    },
+    {
+      "id": "Paswan, Shri Kamlesh",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bansgaon",
+      "group": 5
+    },
+    {
+      "id": "Dubey, Shri Vijay Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Kushi Nagar",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Rajveer (Raju Bhaiya)",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Etah",
+      "group": 5
+    },
+    {
+      "id": "Tadas, Shri Ramdas Chandrabhanji",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Wardha",
+      "group": 5
+    },
+    {
+      "id": "Solanki, Dr. (Prof.) Kirit Premjibhai",
+      "party": "Bharatiya Janata Party",
+      "state": "Gujarat",
+      "constituency": "Ahmedabad West",
+      "group": 5
+    },
+    {
+      "id": "Gavit, Dr. Heena Vijaykumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Nandurbar",
+      "group": 5
+    },
+    {
+      "id": "Chauhan, Shri Nihal Chand",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Ganganagar",
+      "group": 5
+    },
+    {
+      "id": "Sarkar, Shri Jagannath",
+      "party": "Bharatiya Janata Party",
+      "state": "West Bengal",
+      "constituency": "Ranaghat",
+      "group": 5
+    },
+    {
+      "id": "Naik, Shri Raja Amareshwara",
+      "party": "Bharatiya Janata Party",
+      "state": "Karnataka",
+      "constituency": "Raichur",
+      "group": 5
+    },
+    {
+      "id": "Kapoor, Shri Kishan",
+      "party": "Bharatiya Janata Party",
+      "state": "Himachal Pradesh",
+      "constituency": "Kangra",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Ganesh",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Satna",
+      "group": 5
+    },
+    {
+      "id": "Bohra, Shri Ramcharan",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Jaipur",
+      "group": 5
+    },
+    {
+      "id": "Sarangi, Smt. Aparajita",
+      "party": "Bharatiya Janata Party",
+      "state": "Odisha",
+      "constituency": "Bhubaneswar",
+      "group": 5
+    },
+    {
+      "id": "Kaswan, Shri Rahul",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Churu",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Pashupati Nath",
+      "party": "Bharatiya Janata Party",
+      "state": "Jharkhand",
+      "constituency": "Dhanbad",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Lallu",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Faizabad",
+      "group": 5
+    },
+    {
+      "id": "Nagar, Shri Rodmal",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Rajgarh",
+      "group": 5
+    },
+    {
+      "id": "Bhamre, Dr. Subhash Ramrao",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Dhule",
+      "group": 5
+    },
+    {
+      "id": "Shrangare, Shri Sudhakar Tukaram",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Latur",
+      "group": 5
+    },
+    {
+      "id": "Sao, Shri Arun",
+      "party": "Bharatiya Janata Party",
+      "state": "Chhattisgarh",
+      "constituency": "Bilaspur",
+      "group": 5
+    },
+    {
+      "id": "Roy, Dr. Rajdeep",
+      "party": "Bharatiya Janata Party",
+      "state": "Assam",
+      "constituency": "Silchar",
+      "group": 5
+    },
+    {
+      "id": "Nishank, Dr. Ramesh Pokhriyal",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttarakhand",
+      "constituency": "Hardwar",
+      "group": 5
+    },
+    {
+      "id": "Patel, Shri Mitesh Rameshbhai",
+      "party": "Bharatiya Janata Party",
+      "state": "Gujarat",
+      "constituency": "Anand",
+      "group": 5
+    },
+    {
+      "id": "Patel, Smt. Sharda Anilkumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Gujarat",
+      "constituency": "Mahesana",
+      "group": 5
+    },
+    {
+      "id": "Yadav, Dr. Krishnapal Singh",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Guna",
+      "group": 5
+    },
+    {
+      "id": "Patil, Shri Unmesh Bhaiyyasaheb",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Jalgaon",
+      "group": 5
+    },
+    {
+      "id": "Panda, Shri Basanta Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Odisha",
+      "constituency": "Kalahandi",
+      "group": 5
+    },
+    {
+      "id": "Kachhadiya, Shri Naranbhai Bhikhabhai",
+      "party": "Bharatiya Janata Party",
+      "state": "Gujarat",
+      "constituency": "Amreli",
+      "group": 5
+    },
+    {
+      "id": "Kashyap, Shri Dharmendra Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Aonla",
+      "group": 5
+    },
+    {
+      "id": "Seth, Shri Sanjay",
+      "party": "Bharatiya Janata Party",
+      "state": "Jharkhand",
+      "constituency": "Ranchi",
+      "group": 5
+    },
+    {
+      "id": "Hema Malini, Smt.",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Mathura",
+      "group": 5
+    },
+    {
+      "id": "Dilip, Shri Saikia",
+      "party": "Bharatiya Janata Party",
+      "state": "Assam",
+      "constituency": "Mangaldoi",
+      "group": 5
+    },
+    {
+      "id": "Gogoi, Shri Topon Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Assam",
+      "constituency": "Jorhat",
+      "group": 5
+    },
+    {
+      "id": "Verma, Shri Rajesh",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Sitapur",
+      "group": 5
+    },
+    {
+      "id": "Singh, Shri Bhola",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "group": 5
+    },
+    {
+      "id": "Pathak, Smt. Riti",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Sidhi",
+      "group": 5
+    },
+    {
+      "id": "Rajoria, Dr. Manoj",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Karauli-Dholpur",
+      "group": 5
+    },
+    {
+      "id": "Patil, Shri Gyaneshwar",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Khandwa",
+      "group": 5
+    },
+    {
+      "id": "Patel, Shri Parbatbhai Savabhai",
+      "party": "Bharatiya Janata Party",
+      "state": "Gujarat",
+      "constituency": "Banaskantha",
+      "group": 5
+    },
+    {
+      "id": "Jaunapuria, Shri Sukhbir Singh",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Tonk-Sawai Madhopur",
+      "group": 5
+    },
+    {
+      "id": "Pathak, Shri Subrat",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Kannauj",
+      "group": 5
+    },
+    {
+      "id": "Das, Shri Pallab Lochan",
+      "party": "Bharatiya Janata Party",
+      "state": "Assam",
+      "constituency": "Tezpur",
+      "group": 5
+    },
+    {
+      "id": "Oram, Shri Jual",
+      "party": "Bharatiya Janata Party",
+      "state": "Odisha",
+      "constituency": "Sundargarh",
+      "group": 5
+    },
+    {
+      "id": "Duggal, Smt. Sunita",
+      "party": "Bharatiya Janata Party",
+      "state": "Haryana",
+      "constituency": "Sirsa",
+      "group": 5
+    },
+    {
+      "id": "Baghel, Shri Vijay",
+      "party": "Bharatiya Janata Party",
+      "state": "Chhattisgarh",
+      "constituency": "Durg",
+      "group": 5
+    },
+    {
+      "id": "Gao, Shri Tapir",
+      "party": "Bharatiya Janata Party",
+      "state": "Arunachal Pradesh",
+      "constituency": "Arunachal East",
+      "group": 5
+    },
+    {
+      "id": "Rawat, Shri Ashok Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Misrikh",
+      "group": 5
+    },
+    {
+      "id": "Naik Nimbalkar, Shri Ranjeetsingh",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Madha",
+      "group": 5
+    },
+    {
+      "id": "Patel, Shri Gajendra Singh",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Khargone",
+      "group": 5
+    },
+    {
+      "id": "Roy, Dr. Jayanta Kumar",
+      "party": "Bharatiya Janata Party",
+      "state": "West Bengal",
+      "constituency": "Jalpaiguri",
+      "group": 5
+    },
+    {
+      "id": "Y, Shri Devendrappa",
+      "party": "Bharatiya Janata Party",
+      "state": "Karnataka",
+      "constituency": "Bellary",
+      "group": 5
+    },
+    {
+      "id": "Chandel, Kunwar Pushpendra Singh",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Hamirpur",
+      "group": 5
+    },
+    {
+      "id": "Joshi, Prof. Rita Bahuguna",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Allahabad",
+      "group": 5
+    },
+    {
+      "id": "Solanky, Shri Mahendra Singh",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "Dewas",
+      "group": 5
+    },
+    {
+      "id": "Chavda, Shri Vinod",
+      "party": "Bharatiya Janata Party",
+      "state": "Gujarat",
+      "constituency": "Kachchh",
+      "group": 5
+    },
+    {
+      "id": "Maurya, Dr. Sanghamitra",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Badaun",
+      "group": 5
+    }
+  ],
+  "directed": [true]
+}

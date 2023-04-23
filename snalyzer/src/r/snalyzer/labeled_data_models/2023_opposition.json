@@ -1,0 +1,4084 @@
+{
+  "links": [
+    {
+      "source": "Raut, Shri Vinayak Bhaurao",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Preferences  under  PMUY",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4326,
+      "value": 2
+    },
+    {
+      "source": "Delkar, Smt. Kalaben Mohanbhai",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Preferences  under  PMUY",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4326,
+      "value": 2
+    },
+    {
+      "source": "Prakash, Adv. Adoor",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "AMRUT  Scheme  in  Kerala",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5937,
+      "value": 2
+    },
+    {
+      "source": "Owaisi, Shri Asaduddin",
+      "target": "POWER",
+      "topic": "Hydro  Power  Projects  in  Himalayan  Region",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "label": "neutral",
+      "score": 0.5602,
+      "value": 2
+    },
+    {
+      "source": "Sawant, Shri Arvind Ganpat",
+      "target": "JAL SHAKTI",
+      "topic": "Implementation  of  Jal  Jeevan  Mission",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5131,
+      "value": 2
+    },
+    {
+      "source": "Rajenimbalkar, Shri Omprakash Bhupalsingh alias Pavan",
+      "target": "JAL SHAKTI",
+      "topic": "Implementation  of  Jal  Jeevan  Mission",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5131,
+      "value": 2
+    },
+    {
+      "source": "Natarajan, Shri P.R.",
+      "target": "CIVIL AVIATION",
+      "topic": "Route  Dispersal  Guidelines",
+      "party": "Communist Party of India (Marxist)",
+      "label": "neutral",
+      "score": 0.669,
+      "value": 2
+    },
+    {
+      "source": "Galla, Shri Jayadev",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Facilities  to  Street  Vendors",
+      "party": "Telugu Desam Party",
+      "label": "neutral",
+      "score": 0.6179,
+      "value": 2
+    },
+    {
+      "source": "Ram Mohan Naidu, Shri Kinjarapu",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Facilities  to  Street  Vendors",
+      "party": "Telugu Desam Party",
+      "label": "neutral",
+      "score": 0.6179,
+      "value": 2
+    },
+    {
+      "source": "Kumar, Shri Kaushalendra",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Use  of  Substandard  Construction  Material",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.5292,
+      "value": 2
+    },
+    {
+      "source": "Khaleque, Shri Abdul",
+      "target": "JAL SHAKTI",
+      "topic": "Pollution  of  Water  Bodies",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5773,
+      "value": 2
+    },
+    {
+      "source": "Vanga, Smt. Geetha Viswanath",
+      "target": "JAL SHAKTI",
+      "topic": "Polavaram  Irrigation  Project",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5566,
+      "value": 2
+    },
+    {
+      "source": "Mane, Shri Dhairyasheel S.",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "AIIMS/AIIMS  like  Institutions",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5147,
+      "value": 2
+    },
+    {
+      "source": "Baalu, Shri Thalikkottai Rajuthevar",
+      "target": "EXTERNAL AFFAIRS",
+      "topic": "Activities  undertaken  under  G20  Summit",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.6095,
+      "value": 2
+    },
+    {
+      "source": "Rajenimbalkar, Shri Omprakash Bhupalsingh alias Pavan",
+      "target": "DEFENCE",
+      "topic": "Welfare  Schemes  for  Ex-servicemen  and  their Dependents",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4881,
+      "value": 2
+    },
+    {
+      "source": "Jadhav, Shri Sanjay Haribhau",
+      "target": "DEFENCE",
+      "topic": "Welfare  Schemes  for  Ex-servicemen  and  their Dependents",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4881,
+      "value": 2
+    },
+    {
+      "source": "Annadurai, Shri C.N.",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Pradhan  Mantri  Bhartiya  Janaushadhi Pariyojana",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4543,
+      "value": 2
+    },
+    {
+      "source": "Mandal, Smt. Manjulata",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Pradhan  Mantri  Bhartiya  Janaushadhi Pariyojana",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.4543,
+      "value": 2
+    },
+    {
+      "source": "Ray, Prof. Sougata",
+      "target": "LAW AND JUSTICE",
+      "topic": "Reform  in  Collegium  System",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.5806,
+      "value": 2
+    },
+    {
+      "source": "Baij, Shri Deepak",
+      "target": "LAW AND JUSTICE",
+      "topic": "Reform  in  Collegium  System",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5806,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Ravneet",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Mental  Health  Care  Services",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5217,
+      "value": 2
+    },
+    {
+      "source": "Galla, Shri Jayadev",
+      "target": "DEFENCE",
+      "topic": "Industries  Supported  under  the  Technology Development  Fund",
+      "party": "Telugu Desam Party",
+      "label": "neutral",
+      "score": 0.5932,
+      "value": 2
+    },
+    {
+      "source": "Beniwal, Shri Hanuman",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Software  for  AIIMS",
+      "party": "Rashtriya Loktantrik Party",
+      "label": "neutral",
+      "score": 0.456,
+      "value": 2
+    },
+    {
+      "source": "Mondal, Shri Sunil Kumar",
+      "target": "PORTS, SHIPPING AND WATERWAYS",
+      "topic": "Development  of  Ferry  Service",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.4743,
+      "value": 2
+    },
+    {
+      "source": "Ajmal, Maulana Badruddin",
+      "target": "AYUSH",
+      "topic": "AYUSH  Medical  College  and  Hospital",
+      "party": "All India United Democratic Front",
+      "label": "neutral",
+      "score": 0.5725,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Rajiv Ranjan Alias Lalan Singh",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Spurious  Drugs",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.4568,
+      "value": 2
+    },
+    {
+      "source": "Mandlik, Prof. Sanjay Sadashivrao",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Adverse  Effects  of  Junk/Fast  Food",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4528,
+      "value": 2
+    },
+    {
+      "source": "Muraleedharan, Shri K.",
+      "target": "LAW AND JUSTICE",
+      "topic": "Procedure  for  Appointment  of  Judges",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.6773,
+      "value": 2
+    },
+    {
+      "source": "Tagore B., Shri Manickam",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Opportunity  to  Pensioners  in  EPFO",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5549,
+      "value": 2
+    },
+    {
+      "source": "Manne, Shri Srinivas Reddy",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Opportunity  to  Pensioners  in  EPFO",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.5549,
+      "value": 2
+    },
+    {
+      "source": "Nallakonda Gari, Shri Reddeppa",
+      "target": "EDUCATION",
+      "topic": "Setting  up  of  Jawahar  Navodaya  Vidyalayas",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4986,
+      "value": 2
+    },
+    {
+      "source": "Rao, Shri Nama Nageswara",
+      "target": "EDUCATION",
+      "topic": "Setting  up  of  Jawahar  Navodaya  Vidyalayas",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.4986,
+      "value": 2
+    },
+    {
+      "source": "Shewale, Shri Rahul Ramesh",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Plastic  Pollution",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5029,
+      "value": 2
+    },
+    {
+      "source": "Vallabbhaneni, Shri Balashowry",
+      "target": "FINANCE",
+      "topic": "GST  Compensation  to  Andhra  Pradesh",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.6102,
+      "value": 2
+    },
+    {
+      "source": "Lavu, Shri Sri Krishna Devarayalu",
+      "target": "TOURISM",
+      "topic": "Setting  up  of  CIHM  in  Andhra  Pradesh",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5954,
+      "value": 2
+    },
+    {
+      "source": "Adv. A. M. Ariff",
+      "target": "EDUCATION",
+      "topic": "Mid-Day  Meal  Scheme",
+      "party": "Communist Party of India (Marxist)",
+      "label": "neutral",
+      "score": 0.4679,
+      "value": 2
+    },
+    {
+      "source": "Unnithan, Shri Rajmohan",
+      "target": "EDUCATION",
+      "topic": "Non-Registration  of  IGNOU  ���  New  Delhi  and Regional  Centres  on  National  Scholarship Portal",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4528,
+      "value": 2
+    },
+    {
+      "source": "Kolhe, Dr. Amol Ramsing",
+      "target": "EDUCATION",
+      "topic": "Progress  of  PM  POSHAN",
+      "party": "Nationalist Congress Party",
+      "label": "neutral",
+      "score": 0.4357,
+      "value": 2
+    },
+    {
+      "source": "Sule, Smt. Supriya Sadanand",
+      "target": "EDUCATION",
+      "topic": "Progress  of  PM  POSHAN",
+      "party": "Nationalist Congress Party",
+      "label": "neutral",
+      "score": 0.4357,
+      "value": 2
+    },
+    {
+      "source": "Kora, Smt. Geeta",
+      "target": "EDUCATION",
+      "topic": "Tribal  University",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4968,
+      "value": 2
+    },
+    {
+      "source": "Patil, Shri Bheemrao Baswanthrao",
+      "target": "EDUCATION",
+      "topic": "Tribal  University",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.4968,
+      "value": 2
+    },
+    {
+      "source": "Sudhakaran, Shri Kumbakudi",
+      "target": "TOURISM",
+      "topic": "Development  of  Sabarimala",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5109,
+      "value": 2
+    },
+    {
+      "source": "Moitra, Smt. Mahua",
+      "target": "FINANCE",
+      "topic": "Alleged  Harassment  by  Income  Tax  Authorities",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.5516,
+      "value": 2
+    },
+    {
+      "source": "Sunil Kumar Pintu, Shri",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Dust  Mitigation  Measures",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.477,
+      "value": 2
+    },
+    {
+      "source": "Ambareesh, Smt. Sumalatha",
+      "target": "TOURISM",
+      "topic": "Identification  of  Tourist  Destinations  under PRASAD  Scheme",
+      "party": "Independent",
+      "label": "neutral",
+      "score": 0.4923,
+      "value": 2
+    },
+    {
+      "source": "Margani, Shri Bharat Ram",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Production  of  Bio-Fertilizers",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5354,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Pocha Brahmananda",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Production  of  Bio-Fertilizers",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5354,
+      "value": 2
+    },
+    {
+      "source": "Kumar, Shri Dhanush M",
+      "target": "FOOD PROCESSING INDUSTRIES",
+      "topic": "Employment  Opportunity  in  FPIs",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5328,
+      "value": 2
+    },
+    {
+      "source": "Selvam, Shri Ganesan",
+      "target": "FOOD PROCESSING INDUSTRIES",
+      "topic": "Employment  Opportunity  in  FPIs",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5328,
+      "value": 2
+    },
+    {
+      "source": "Nallakonda Gari, Shri Reddeppa",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Wage  Rates  under  MGNREGS",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4487,
+      "value": 2
+    },
+    {
+      "source": "Godse, Shri Hemant Tukaram",
+      "target": "PANCHAYATI RAJ",
+      "topic": "Computer  Education  at  Village  Level",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4473,
+      "value": 2
+    },
+    {
+      "source": "Delkar, Smt. Kalaben Mohanbhai",
+      "target": "PANCHAYATI RAJ",
+      "topic": "Computer  Education  at  Village  Level",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4473,
+      "value": 2
+    },
+    {
+      "source": "Ray, Prof. Sougata",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "Appointment  of  Sportspersons  in  Wrestling Federation  of  India",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.4807,
+      "value": 2
+    },
+    {
+      "source": "Bellana, Shri Chandra Sekhar",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Effects  of  Land  Degradation",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4821,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Adala Prabhakara",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Effects  of  Land  Degradation",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4821,
+      "value": 2
+    },
+    {
+      "source": "Sunil Kumar Pintu, Shri",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Central  Teams  to  Examine  Work  and Expenditure under MGNREGS",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.4876,
+      "value": 2
+    },
+    {
+      "source": "Rana, Smt Navneet Ravi",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Central  Teams  to  Examine  Work  and Expenditure under MGNREGS",
+      "party": "Independent",
+      "label": "neutral",
+      "score": 0.4876,
+      "value": 2
+    },
+    {
+      "source": "Muraleedharan, Shri K.",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Increase  in  Cases  of  Fake  News",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5075,
+      "value": 2
+    },
+    {
+      "source": "Benny, Shri Behanan",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Increase  in  Cases  of  Fake  News",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5075,
+      "value": 2
+    },
+    {
+      "source": "Raghavan, Shri M. K.",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Steps  to  Promote  the  Welfare  of  Farmers",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4553,
+      "value": 2
+    },
+    {
+      "source": "K. Navas, Shri Kani",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Self-Sufficiency  in  Edible  Oil  Production",
+      "party": "Indian Union Muslim League",
+      "label": "neutral",
+      "score": 0.5671,
+      "value": 2
+    },
+    {
+      "source": "Sahu, Shri Chandra Sekhar",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Production  and  Consumption  of  Millets",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.4556,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Dr. Gaddam Ranjith",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Efficacy of  MSP",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.4022,
+      "value": 2
+    },
+    {
+      "source": "Maloth, Smt. Kavitha",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Efficacy of  MSP",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.4022,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Uttam Kumar Nalamada",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Difference  in  Market  Price  and  MSP",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5386,
+      "value": 2
+    },
+    {
+      "source": "Yadav, Shri Dinesh Chandra",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Shortage  of  Water  for  Agriculture",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.4499,
+      "value": 2
+    },
+    {
+      "source": "Kirtikar, Shri Gajanan Chandrakant",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Decentralization of MGNREGS",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4494,
+      "value": 2
+    },
+    {
+      "source": "Thirumaavalavan, Dr. Tholkappiyan",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Advisory  for  Action  against  Gambling/Betting",
+      "party": "Viduthalai Chiruthaigal Katchi",
+      "label": "neutral",
+      "score": 0.4998,
+      "value": 2
+    },
+    {
+      "source": "A. Raja, Shri",
+      "target": "SOCIAL JUSTICE AND EMPOWERMENT",
+      "topic": "Commission  to  Accord  SC  Status  for  Dalit Christians  and  Muslims",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4776,
+      "value": 2
+    },
+    {
+      "source": "Ajmal, Maulana Badruddin",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "Closure  of  Tea  Estates",
+      "party": "All India United Democratic Front",
+      "label": "negative",
+      "score": 0.5289,
+      "value": 1
+    },
+    {
+      "source": "Sahu, Shri Chandra Sekhar",
+      "target": "MINES",
+      "topic": "MoU between HCL  and  IIT",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.476,
+      "value": 2
+    },
+    {
+      "source": "Shinde, Dr. Shrikant Eknath",
+      "target": "RAILWAYS",
+      "topic": "Model  Railway  Stations",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.6789,
+      "value": 2
+    },
+    {
+      "source": "Rajenimbalkar, Shri Omprakash Bhupalsingh alias Pavan",
+      "target": "PLANNING",
+      "topic": "People  Living  below  Poverty  Line",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4925,
+      "value": 2
+    },
+    {
+      "source": "Paarivendhar, Dr. T. R.",
+      "target": "RAILWAYS",
+      "topic": "Amrit  Bharat  Station  Scheme",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4965,
+      "value": 2
+    },
+    {
+      "source": "Bordoloi, Shri Pradyut",
+      "target": "RAILWAYS",
+      "topic": "Accidents  on  Railway  Tracks",
+      "party": "Indian National Congress",
+      "label": "negative",
+      "score": 0.5212,
+      "value": 1
+    },
+    {
+      "source": "Mallick, Dr. Rajashree",
+      "target": "RAILWAYS",
+      "topic": "Fertilizer  Rake  Points",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.5071,
+      "value": 2
+    },
+    {
+      "source": "Sahoo, Shri Mahesh",
+      "target": "RAILWAYS",
+      "topic": "Fertilizer  Rake  Points",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.5071,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Mahabali",
+      "target": "RAILWAYS",
+      "topic": "Restoration  of  Trains",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.4907,
+      "value": 2
+    },
+    {
+      "source": "Kora, Smt. Geeta",
+      "target": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "topic": "Distribution  of  Foodgrains  under  PMGKAY",
+      "party": "Indian National Congress",
+      "label": "negative",
+      "score": 0.3961,
+      "value": 1
+    },
+    {
+      "source": "Muraleedharan, Shri K.",
+      "target": "ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "topic": "Promotion  of  Gaming  Start-up  Ecosystem",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5732,
+      "value": 2
+    },
+    {
+      "source": "Benny, Shri Behanan",
+      "target": "ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "topic": "Promotion  of  Gaming  Start-up  Ecosystem",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5732,
+      "value": 2
+    },
+    {
+      "source": "Karunanidhi, Smt. Kanimozhi",
+      "target": "PRIME MINISTER",
+      "topic": "Startups  in  Space  Technology  based  Businesses",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.6002,
+      "value": 2
+    },
+    {
+      "source": "Raut, Shri Vinayak Bhaurao",
+      "target": "COMMUNICATIONS",
+      "topic": "Single  Sub-Post  Offices",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4577,
+      "value": 2
+    },
+    {
+      "source": "Jadhav, Shri Sanjay Haribhau",
+      "target": "COMMUNICATIONS",
+      "topic": "Single  Sub-Post  Offices",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4577,
+      "value": 2
+    },
+    {
+      "source": "Ruhi, MS. Nusrat Jahan",
+      "target": "TEXTILES",
+      "topic": "Mega  Textile  Parks",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.6434,
+      "value": 2
+    },
+    {
+      "source": "Lavu, Shri Sri Krishna Devarayalu",
+      "target": "RAILWAYS",
+      "topic": "Redevelopment  of  Railway  Stations  in Andhra  Pradesh",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5173,
+      "value": 2
+    },
+    {
+      "source": "Vallabbhaneni, Shri Balashowry",
+      "target": "RAILWAYS",
+      "topic": "Redevelopment  of  Railway  Stations  in Andhra  Pradesh",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5173,
+      "value": 2
+    },
+    {
+      "source": "Kalanidhi, Dr. Veeraswamy",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Price  of  LPG  Cylinders",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4912,
+      "value": 2
+    },
+    {
+      "source": "Patil, Shri Bheemrao Baswanthrao",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Optical  Fibre  Cable  Infrastructure  along  NHs",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.5583,
+      "value": 2
+    },
+    {
+      "source": "Ahmed, Smt. Sajda",
+      "target": "JAL SHAKTI",
+      "topic": "Reduction  in  Water  Consumption",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.5178,
+      "value": 2
+    },
+    {
+      "source": "Vallabbhaneni, Shri Balashowry",
+      "target": "MINORITY AFFAIRS",
+      "topic": "Allocation  and  Utilisation  of  Funds",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4771,
+      "value": 2
+    },
+    {
+      "source": "Lavu, Shri Sri Krishna Devarayalu",
+      "target": "MINORITY AFFAIRS",
+      "topic": "Allocation  and  Utilisation  of  Funds",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4771,
+      "value": 2
+    },
+    {
+      "source": "Kathir Anand, Shri Durai Murugan",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Brent  Crude  Oil  Price",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.534,
+      "value": 2
+    },
+    {
+      "source": "Ulaka, Shri Saptagiri Sankar",
+      "target": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "topic": "Cluster  Development  Programme",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5153,
+      "value": 2
+    },
+    {
+      "source": "Tatkare, Shri Sunil Dattatray",
+      "target": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "topic": "Cluster  Development  Programme",
+      "party": "Nationalist Congress Party",
+      "label": "neutral",
+      "score": 0.5153,
+      "value": 2
+    },
+    {
+      "source": "Prasad, Shri Chandeshwar",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Road  Projects  in  Bihar",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.826,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Mahabali",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Work under PM-KUSUM",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.4537,
+      "value": 2
+    },
+    {
+      "source": "Delkar, Smt. Kalaben Mohanbhai",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Petrol  Pumps  and  Gas  Agencies",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4893,
+      "value": 2
+    },
+    {
+      "source": "Godse, Shri Hemant Tukaram",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Petrol  Pumps  and  Gas  Agencies",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4893,
+      "value": 2
+    },
+    {
+      "source": "Goswami, Shri Dulal Chandra",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Setting  up  of  Medical  Colleges",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.6286,
+      "value": 2
+    },
+    {
+      "source": "Kesineni, Shri Srinivas",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Anaemia  Mukt  Bharat  Abhiyan",
+      "party": "Telugu Desam Party",
+      "label": "neutral",
+      "score": 0.4249,
+      "value": 2
+    },
+    {
+      "source": "Kumar, Shri Kaushalendra",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Anaemia  Mukt  Bharat  Abhiyan",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.4249,
+      "value": 2
+    },
+    {
+      "source": "Kirtikar, Shri Gajanan Chandrakant",
+      "target": "AYUSH",
+      "topic": "Setting  up  of  AYUSH  Centres  -  Hospitals",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.6163,
+      "value": 2
+    },
+    {
+      "source": "Godse, Shri Hemant Tukaram",
+      "target": "AYUSH",
+      "topic": "Setting  up  of  AYUSH  Centres  -  Hospitals",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.6163,
+      "value": 2
+    },
+    {
+      "source": "Kanumuru, Shri Raghu Ramakrishna Raju",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Financial  Irregularities  in  Central  Health Schemes",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4871,
+      "value": 2
+    },
+    {
+      "source": "Sardinha, Shri Francisco Cosme",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Import  of  Fertilizers",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.6051,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Pocha Brahmananda",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Import  of  Fertilizers",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.6051,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Y. S. Avinash",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Supply  of  DAP  and  Urea",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4339,
+      "value": 2
+    },
+    {
+      "source": "Nagar, Shri Malook",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Startup  Scheme  for  Women",
+      "party": "Bahujan Samaj Party",
+      "label": "neutral",
+      "score": 0.606,
+      "value": 2
+    },
+    {
+      "source": "Ravikumar, Dr. D.",
+      "target": "LAW AND JUSTICE",
+      "topic": "Pending  Cases  of  POCSO",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.6833,
+      "value": 2
+    },
+    {
+      "source": "Sunil Kumar Pintu, Shri",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Health  Minister���s  Cancer  Patient  Fund",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.4568,
+      "value": 2
+    },
+    {
+      "source": "Sawant, Shri Arvind Ganpat",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Mini  Anganwadi  Centres",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4937,
+      "value": 2
+    },
+    {
+      "source": "Jadhav, Shri Sanjay Haribhau",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Mini  Anganwadi  Centres",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4937,
+      "value": 2
+    },
+    {
+      "source": "Suman, Dr. Alok Kumar",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Scheme  for  Development  of  Nursing  Services",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.5826,
+      "value": 2
+    },
+    {
+      "source": "Barne, Shri Shrirang Appa",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Beneficiaries  under  Ayushman  Bharat  Yojana",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.443,
+      "value": 2
+    },
+    {
+      "source": "Yadav, Shri Dinesh Chandra",
+      "target": "CULTURE",
+      "topic": "Restoration  and  Development  of  Monuments",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.5248,
+      "value": 2
+    },
+    {
+      "source": "Ganeshamurthi, Shri A.",
+      "target": "FINANCE",
+      "topic": "Support  to  States  for  their  Capital  Expenditure",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4786,
+      "value": 2
+    },
+    {
+      "source": "A. Raja, Shri",
+      "target": "FINANCE",
+      "topic": "Support  to  States  for  their  Capital  Expenditure",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4786,
+      "value": 2
+    },
+    {
+      "source": "Subbarayan, Shri K.",
+      "target": "EDUCATION",
+      "topic": "Project  to  Rewrite  Indian  History",
+      "party": "Communist Party of India",
+      "label": "neutral",
+      "score": 0.7002,
+      "value": 2
+    },
+    {
+      "source": "Azad, Smt. Sangeeta",
+      "target": "CORPORATE AFFAIRS",
+      "topic": "CSR  Spending  by  CPSEs",
+      "party": "Bahujan Samaj Party",
+      "label": "neutral",
+      "score": 0.7739,
+      "value": 2
+    },
+    {
+      "source": "T. Sumathy (A) Thamizhachi Thangapandian, Dr.",
+      "target": "FINANCE",
+      "topic": "Regulation  of  VDAs,  Cryptos  and  Web3 Sectors",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5652,
+      "value": 2
+    },
+    {
+      "source": "Venkatesan, Shri S.",
+      "target": "CULTURE",
+      "topic": "Conservation  of  Centrally  Protected Monuments",
+      "party": "Communist Party of India (Marxist)",
+      "label": "neutral",
+      "score": 0.6362,
+      "value": 2
+    },
+    {
+      "source": "Baij, Shri Deepak",
+      "target": "FINANCE",
+      "topic": "Inequality  in  the  Country",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4858,
+      "value": 2
+    },
+    {
+      "source": "Premachandran, Shri N.K.",
+      "target": "FINANCE",
+      "topic": "Bima  Sugam  Portal",
+      "party": "Revolutionary Socialist Party",
+      "label": "neutral",
+      "score": 0.5464,
+      "value": 2
+    },
+    {
+      "source": "Eden, Shri Hibi",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Most  Polluted  Cities/Towns",
+      "party": "Indian National Congress",
+      "label": "negative",
+      "score": 0.4529,
+      "value": 1
+    },
+    {
+      "source": "Reddy, Shri Komati Reddy Venkat",
+      "target": "FINANCE",
+      "topic": "Inequality  in  Wealth  Distribution  in  the Country",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4313,
+      "value": 2
+    },
+    {
+      "source": "Manne, Shri Srinivas Reddy",
+      "target": "FINANCE",
+      "topic": "Inequality  in  Wealth  Distribution  in  the Country",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.4313,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Dr. Gaddam Ranjith",
+      "target": "FINANCE",
+      "topic": "Allocation  of  Funds  for  Hyderabad-Nagpur Industrial  Corridor",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.5474,
+      "value": 2
+    },
+    {
+      "source": "Maloth, Smt. Kavitha",
+      "target": "FINANCE",
+      "topic": "Allocation  of  Funds  for  Hyderabad-Nagpur Industrial  Corridor",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.5474,
+      "value": 2
+    },
+    {
+      "source": "Khaleque, Shri Abdul",
+      "target": "FINANCE",
+      "topic": "Collection  of  Taxes  and  Devolution  of  Tax Revenues",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.6434,
+      "value": 2
+    },
+    {
+      "source": "Velusamy, Shri P.",
+      "target": "FINANCE",
+      "topic": "Misuse  of  Crypto-currency",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "negative",
+      "score": 0.4539,
+      "value": 1
+    },
+    {
+      "source": "Ganeshamurthi, Shri A.",
+      "target": "EDUCATION",
+      "topic": "Attack  on  Tamil  Students  in  JNU",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "negative",
+      "score": 0.732,
+      "value": 1
+    },
+    {
+      "source": "A. Raja, Shri",
+      "target": "EDUCATION",
+      "topic": "Attack  on  Tamil  Students  in  JNU",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "negative",
+      "score": 0.732,
+      "value": 1
+    },
+    {
+      "source": "Shinde, Dr. Shrikant Eknath",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "Jan  Shikshan  Sansthan  (JSS)",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4789,
+      "value": 2
+    },
+    {
+      "source": "Sahu, Shri Chandra Sekhar",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "Budgetary  Allocation  under  PMKVY",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.4542,
+      "value": 2
+    },
+    {
+      "source": "Shewale, Shri Rahul Ramesh",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "Placement  Target  under  PMKVY",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4346,
+      "value": 2
+    },
+    {
+      "source": "Godse, Shri Hemant Tukaram",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "PMKVY 4.0",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4664,
+      "value": 2
+    },
+    {
+      "source": "Kumar, Shri Kaushalendra",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Recruitments  in  ESI  Hospitals",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.6098,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Uttam Kumar Nalamada",
+      "target": "FINANCE",
+      "topic": "Cash  Circulation  and  Demonetization",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5389,
+      "value": 2
+    },
+    {
+      "source": "Paarivendhar, Dr. T. R.",
+      "target": "EDUCATION",
+      "topic": "Tamil  as  a  Compulsory  Subject  in  the  KVs Running  in  Tamil  Nadu",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5378,
+      "value": 2
+    },
+    {
+      "source": "Unnithan, Shri Rajmohan",
+      "target": "EDUCATION",
+      "topic": "Appointment  of  VC  in  Central  Universities",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5816,
+      "value": 2
+    },
+    {
+      "source": "Sunil Kumar Pintu, Shri",
+      "target": "FINANCE",
+      "topic": "Assistance  under  RIDF",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.5876,
+      "value": 2
+    },
+    {
+      "source": "Baij, Shri Deepak",
+      "target": "FINANCE",
+      "topic": "Loan  to Adani  Group",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.6173,
+      "value": 2
+    },
+    {
+      "source": "Mane, Shri Dhairyasheel S.",
+      "target": "FINANCE",
+      "topic": "e-Rupee",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.484,
+      "value": 2
+    },
+    {
+      "source": "Mandlik, Prof. Sanjay Sadashivrao",
+      "target": "FINANCE",
+      "topic": "e-Rupee",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.484,
+      "value": 2
+    },
+    {
+      "source": "Annadurai, Shri C.N.",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Hospitals  and  Dispensaries  under  ESIC",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4672,
+      "value": 2
+    },
+    {
+      "source": "Selvam, Shri Ganesan",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Hospitals  and  Dispensaries  under  ESIC",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4672,
+      "value": 2
+    },
+    {
+      "source": "Mohanty, Shri Anubhav",
+      "target": "HEAVY INDUSTRIES",
+      "topic": "Use  of  Electric  Vehicles",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.554,
+      "value": 2
+    },
+    {
+      "source": "Maloth, Smt. Kavitha",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Average  Days  of  Employment  under  MGNREGS",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.5009,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Dr. Gaddam Ranjith",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Average  Days  of  Employment  under  MGNREGS",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.5009,
+      "value": 2
+    },
+    {
+      "source": "Beesetti , Dr. Venkata Satyavathi",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Survey  of  Women  Farmers",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5071,
+      "value": 2
+    },
+    {
+      "source": "Mondal, Shri Sunil Kumar",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "Construction  of  Mini  Stadiums",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.4947,
+      "value": 2
+    },
+    {
+      "source": "Rana, Smt Navneet Ravi",
+      "target": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "topic": "Schemes  on  Fisheries,  Animal  Husbandry  and Dairying",
+      "party": "Independent",
+      "label": "neutral",
+      "score": 0.4203,
+      "value": 2
+    },
+    {
+      "source": "Kunwar Danish Ali",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "Sexual  Harassment  in  Sports",
+      "party": "Bahujan Samaj Party",
+      "label": "neutral",
+      "score": 0.5829,
+      "value": 2
+    },
+    {
+      "source": "Singh, Dr. Amar",
+      "target": "HOME AFFAIRS",
+      "topic": "Natural  Disasters",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.6354,
+      "value": 2
+    },
+    {
+      "source": "Delkar, Smt. Kalaben Mohanbhai",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Implementation  of  PMFBY",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4065,
+      "value": 2
+    },
+    {
+      "source": "Kirtikar, Shri Gajanan Chandrakant",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Implementation  of  PMFBY",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4065,
+      "value": 2
+    },
+    {
+      "source": "Lavu, Shri Sri Krishna Devarayalu",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "NMMS App under MGNREGS",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4204,
+      "value": 2
+    },
+    {
+      "source": "Vallabbhaneni, Shri Balashowry",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "NMMS App under MGNREGS",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4204,
+      "value": 2
+    },
+    {
+      "source": "Muraleedharan, Shri K.",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Pradhan  Mantri Awaas Yojana-Gramin",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4793,
+      "value": 2
+    },
+    {
+      "source": "Jawed, Dr. Mohammad",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Pradhan  Mantri Awaas Yojana-Gramin",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4793,
+      "value": 2
+    },
+    {
+      "source": "Gogoi, Shri Gaurav",
+      "target": "TECHNOLOGY",
+      "topic": "Women  Scientists  Scheme",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.6477,
+      "value": 2
+    },
+    {
+      "source": "Chinta Anuradha, Smt.",
+      "target": "TEXTILES",
+      "topic": "Scheme  for  Capacity  Building  in  Textile  Sector (SCBTS)",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5219,
+      "value": 2
+    },
+    {
+      "source": "Kunwar Danish Ali",
+      "target": "RAILWAYS",
+      "topic": "Acute  Shortage  of  Station  Masters",
+      "party": "Bahujan Samaj Party",
+      "label": "neutral",
+      "score": 0.6253,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Rajiv Ranjan Alias Lalan Singh",
+      "target": "COAL",
+      "topic": "Guidelines  to  the  State  Governments  for Import  of  Coal",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.6258,
+      "value": 2
+    },
+    {
+      "source": "Kumar, Shri Kaushalendra",
+      "target": "COAL",
+      "topic": "Guidelines  to  the  State  Governments  for Import  of  Coal",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.6258,
+      "value": 2
+    },
+    {
+      "source": "Pala, Shri Vincent H.",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "ODOP  Scheme",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4795,
+      "value": 2
+    },
+    {
+      "source": "Sule, Smt. Supriya Sadanand",
+      "target": "COMMUNICATIONS",
+      "topic": "BSNL  5G  Services",
+      "party": "Nationalist Congress Party",
+      "label": "neutral",
+      "score": 0.486,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Pocha Brahmananda",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "Startup  India  Seed  Fund  Scheme",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5802,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Magunta Sreenivasulu",
+      "target": "COMMERCE AND INDUSTRY",
+      "topic": "Startup  India  Seed  Fund  Scheme",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5802,
+      "value": 2
+    },
+    {
+      "source": "Jadhav, Shri Sanjay Haribhau",
+      "target": "RAILWAYS",
+      "topic": "Railway  Works  in  Maharashtra",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4327,
+      "value": 2
+    },
+    {
+      "source": "Raut, Shri Vinayak Bhaurao",
+      "target": "RAILWAYS",
+      "topic": "Railway  Works  in  Maharashtra",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4327,
+      "value": 2
+    },
+    {
+      "source": "Sahu, Shri Chandra Sekhar",
+      "target": "TEXTILES",
+      "topic": "Setting  up  of  Incubation  Centres",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.5861,
+      "value": 2
+    },
+    {
+      "source": "Sethi, Smt. Sarmistha Kumari",
+      "target": "RAILWAYS",
+      "topic": "Historical  Thane  Railway  Station",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.6265,
+      "value": 2
+    },
+    {
+      "source": "Sardinha, Shri Francisco Cosme",
+      "target": "RAILWAYS",
+      "topic": "Budget  Outlay  and  Capital  Expenditure",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.6157,
+      "value": 2
+    },
+    {
+      "source": "Borlakunta, Shri Venkatesh Netha",
+      "target": "JAL SHAKTI",
+      "topic": "Pollution  in  Musi  River",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.5407,
+      "value": 2
+    },
+    {
+      "source": "Maloth, Smt. Kavitha",
+      "target": "JAL SHAKTI",
+      "topic": "Pollution  in  Musi  River",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.5407,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Pocha Brahmananda",
+      "target": "CIVIL AVIATION",
+      "topic": "Financial  Assistance  under  RCS-UDAN",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.6104,
+      "value": 2
+    },
+    {
+      "source": "Kumar, Shri Kaushalendra",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Benefits  of  Solar  Energy",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.5523,
+      "value": 2
+    },
+    {
+      "source": "Sawant, Shri Arvind Ganpat",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Development  of  Marine  Highways",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5552,
+      "value": 2
+    },
+    {
+      "source": "Sunil Kumar Pintu, Shri",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Maintenance  of  Road  Infrastructure",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.4717,
+      "value": 2
+    },
+    {
+      "source": "Rana, Smt Navneet Ravi",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Maintenance  of  Road  Infrastructure",
+      "party": "Independent",
+      "label": "neutral",
+      "score": 0.4717,
+      "value": 2
+    },
+    {
+      "source": "Gavit, Shri Rajendra Dhedya",
+      "target": "JAL SHAKTI",
+      "topic": "Rainwater  Harvesting",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5164,
+      "value": 2
+    },
+    {
+      "source": "DNV Senthilkumar S, Dr.",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "Renewable  Energy  Capacity  in  Tamil  Nadu",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5644,
+      "value": 2
+    },
+    {
+      "source": "Jadhav, Shri Sanjay Haribhau",
+      "target": "POWER",
+      "topic": "Share  of  Government  in  PFC  and  REC",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5179,
+      "value": 2
+    },
+    {
+      "source": "Kalanidhi, Dr. Veeraswamy",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Subsidy  on  Petroleum",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4601,
+      "value": 2
+    },
+    {
+      "source": "Kanumuru, Shri Raghu Ramakrishna Raju",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Development  of  National  Highways  and Greenfield  Expressways",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4699,
+      "value": 2
+    },
+    {
+      "source": "Manne, Shri Srinivas Reddy",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Development  of  National  Highways  and Greenfield  Expressways",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.4699,
+      "value": 2
+    },
+    {
+      "source": "Kunwar Danish Ali",
+      "target": "MINORITY AFFAIRS",
+      "topic": "Reduction  in  Budgetary  Allocation",
+      "party": "Bahujan Samaj Party",
+      "label": "neutral",
+      "score": 0.6156,
+      "value": 2
+    },
+    {
+      "source": "Mohanty, Shri Anubhav",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Compensation  to  Victims  of  Road  Accident",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.6645,
+      "value": 2
+    },
+    {
+      "source": "Tewari, Shri Manish",
+      "target": "LAW AND JUSTICE",
+      "topic": "R&AW  Reports  on  Supreme  Court  Collegium",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.6128,
+      "value": 2
+    },
+    {
+      "source": "Ruhi, MS. Nusrat Jahan",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Vacancies  of  Doctors  and  Nurses  in  Central Government  Hospitals",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.7345,
+      "value": 2
+    },
+    {
+      "source": "Aujla, Shri Gurjeet Singh",
+      "target": "EXTERNAL AFFAIRS",
+      "topic": "Slots  for  Passport  Appointments",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4582,
+      "value": 2
+    },
+    {
+      "source": "Tatkare, Shri Sunil Dattatray",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Online  Sale  of  Medicines",
+      "party": "Nationalist Congress Party",
+      "label": "negative",
+      "score": 0.4427,
+      "value": 1
+    },
+    {
+      "source": "Sridhar, Shri Kotagiri",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Cashless  Facilities  to  Pensioners  under  CGHS",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4362,
+      "value": 2
+    },
+    {
+      "source": "Sundaram, Shri K. Shanmuga",
+      "target": "AYUSH",
+      "topic": "Promotion  of  Medicinal  Plants",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4536,
+      "value": 2
+    },
+    {
+      "source": "A. Raja, Shri",
+      "target": "LAW AND JUSTICE",
+      "topic": "E-Courts  Project",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5391,
+      "value": 2
+    },
+    {
+      "source": "Ganeshamurthi, Shri A.",
+      "target": "LAW AND JUSTICE",
+      "topic": "E-Courts  Project",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5391,
+      "value": 2
+    },
+    {
+      "source": "Selvam, Shri Ganesan",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Super  Speciality  Hospitals",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5054,
+      "value": 2
+    },
+    {
+      "source": "Annadurai, Shri C.N.",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Super  Speciality  Hospitals",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5054,
+      "value": 2
+    },
+    {
+      "source": "Kirtikar, Shri Gajanan Chandrakant",
+      "target": "LAW AND JUSTICE",
+      "topic": "Simultaneous  Election",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.6101,
+      "value": 2
+    },
+    {
+      "source": "Delkar, Smt. Kalaben Mohanbhai",
+      "target": "LAW AND JUSTICE",
+      "topic": "Simultaneous  Election",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.6101,
+      "value": 2
+    },
+    {
+      "source": "Kuriakose, Adv. Dean",
+      "target": "LAW AND JUSTICE",
+      "topic": "Relief  to  Victims  of  Human-Animal Conflict",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5175,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Kotha Prabhakar",
+      "target": "LAW AND JUSTICE",
+      "topic": "Electoral  Reforms",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.5435,
+      "value": 2
+    },
+    {
+      "source": "Paarivendhar, Dr. T. R.",
+      "target": "CORPORATE AFFAIRS",
+      "topic": "Foreign  Companies  and  their  Subsidiaries",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5217,
+      "value": 2
+    },
+    {
+      "source": "Singari, Dr. Sanjeev Kumar",
+      "target": "EDUCATION",
+      "topic": "National  Eligibility  Test",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "negative",
+      "score": 0.4399,
+      "value": 1
+    },
+    {
+      "source": "Mondal, Shri Sunil Kumar",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Scheme  for  Daily  Labourers",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.5274,
+      "value": 2
+    },
+    {
+      "source": "Rao, Shri Nama Nageswara",
+      "target": "FINANCE",
+      "topic": "Central  Government  Debt",
+      "party": "Telangana Rashtra Samithi",
+      "label": "negative",
+      "score": 0.4738,
+      "value": 1
+    },
+    {
+      "source": "Sudhakaran, Shri Kumbakudi",
+      "target": "EDUCATION",
+      "topic": "Lack  of  Educational  Institutes  for  Disabled",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5583,
+      "value": 2
+    },
+    {
+      "source": "Singh, Dr. Amar",
+      "target": "EDUCATION",
+      "topic": "Lack  of  Educational  Institutes  for  Disabled",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5583,
+      "value": 2
+    },
+    {
+      "source": "Samanta, Shri Achyutananda",
+      "target": "EDUCATION",
+      "topic": "Migration  of  Youth  for  Higher  Education",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.5332,
+      "value": 2
+    },
+    {
+      "source": "Patil, Shri Shriniwas Dadasaheb",
+      "target": "EDUCATION",
+      "topic": "Teachers  involved  in  Non-Academic  Activities",
+      "party": "Nationalist Congress Party",
+      "label": "neutral",
+      "score": 0.5423,
+      "value": 2
+    },
+    {
+      "source": "Margani, Shri Bharat Ram",
+      "target": "TOURISM",
+      "topic": "Projects  selected  under  PRASAD  Scheme  in Andhra  Pradesh",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.6248,
+      "value": 2
+    },
+    {
+      "source": "Majhi, Shri Ramesh Chandra",
+      "target": "FINANCE",
+      "topic": "MUDRA  Loans  in  Odisha",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.7114,
+      "value": 2
+    },
+    {
+      "source": "Ray, Prof. Sougata",
+      "target": "FINANCE",
+      "topic": "Smuggling  of  Gold  and  Silver",
+      "party": "All India Trinamool Congress",
+      "label": "negative",
+      "score": 0.4878,
+      "value": 1
+    },
+    {
+      "source": "Mandal, Smt. Manjulata",
+      "target": "EDUCATION",
+      "topic": "Schemes  to  promote  Research  andDevelopment Activities  in  Universities",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.5424,
+      "value": 2
+    },
+    {
+      "source": "Annadurai, Shri C.N.",
+      "target": "EDUCATION",
+      "topic": "Schemes  to  promote  Research  andDevelopment Activities  in  Universities",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5424,
+      "value": 2
+    },
+    {
+      "source": "Delkar, Smt. Kalaben Mohanbhai",
+      "target": "EDUCATION",
+      "topic": "National  Mission  on  Education  through Information  and  Communication  Technology",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5204,
+      "value": 2
+    },
+    {
+      "source": "Kirtikar, Shri Gajanan Chandrakant",
+      "target": "EDUCATION",
+      "topic": "National  Mission  on  Education  through Information  and  Communication  Technology",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5204,
+      "value": 2
+    },
+    {
+      "source": "Singh, Shri Ravneet",
+      "target": "HEAVY INDUSTRIES",
+      "topic": "Deployment  of  e-Buses",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4542,
+      "value": 2
+    },
+    {
+      "source": "Prakash, Adv. Adoor",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Prasar  Bharati  and  Hindusthan  Samachar  Deal",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4604,
+      "value": 2
+    },
+    {
+      "source": "Kathir Anand, Shri Durai Murugan",
+      "target": "PANCHAYATI RAJ",
+      "topic": "Development  of  Panchayats  in  Tamil  Nadu",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.6448,
+      "value": 2
+    },
+    {
+      "source": "Lavu, Shri Sri Krishna Devarayalu",
+      "target": "HOME AFFAIRS",
+      "topic": "Special  Category  Status  to  Andhra  Pradesh",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4739,
+      "value": 2
+    },
+    {
+      "source": "Vallabbhaneni, Shri Balashowry",
+      "target": "HOME AFFAIRS",
+      "topic": "Special  Category  Status  to  Andhra  Pradesh",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4739,
+      "value": 2
+    },
+    {
+      "source": "Mandlik, Prof. Sanjay Sadashivrao",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Objectionable  Advertisements",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4631,
+      "value": 2
+    },
+    {
+      "source": "Mane, Shri Dhairyasheel S.",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Objectionable  Advertisements",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4631,
+      "value": 2
+    },
+    {
+      "source": "Tumane, Shri Krupal Balaji",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Skill  Training  under  DDU-GKY",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.3982,
+      "value": 2
+    },
+    {
+      "source": "Bhavana Gawali (Patil), Ms.",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Skill  Training  under  DDU-GKY",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.3982,
+      "value": 2
+    },
+    {
+      "source": "Suman, Dr. Alok Kumar",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "Promotion  of  International  Spirit  under  Khelo India  Scheme",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.6035,
+      "value": 2
+    },
+    {
+      "source": "Ram Mohan Naidu, Shri Kinjarapu",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "Athletes  representing  India  at  Olympics  and Commonwealth  Games",
+      "party": "Telugu Desam Party",
+      "label": "neutral",
+      "score": 0.6578,
+      "value": 2
+    },
+    {
+      "source": "Syed Imtiaz Jaleel, Shri",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Fact  Checking  Wing  at  PIB",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "label": "neutral",
+      "score": 0.6209,
+      "value": 2
+    },
+    {
+      "source": "T. Sumathy (A) Thamizhachi Thangapandian, Dr.",
+      "target": "INFORMATION AND BROADCASTING",
+      "topic": "Fact  Checking  Wing  at  PIB",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.6209,
+      "value": 2
+    },
+    {
+      "source": "Satyanarayana, Shri M V V",
+      "target": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "topic": "Fish  Landing  Centres",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5244,
+      "value": 2
+    },
+    {
+      "source": "Kamait, Shri Dileshwar",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "MGNREGS and PMGSY in Bihar",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.5053,
+      "value": 2
+    },
+    {
+      "source": "Vijayakumar (Alias) Vijay Vasanth , Shri",
+      "target": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "topic": "Insurance  Scheme  for  Fishing",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5876,
+      "value": 2
+    },
+    {
+      "source": "Kumar, Shri Dhanush M",
+      "target": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "topic": "Productivity  in  Fisheries  and  Aquaculture Sector  under  PMMSY",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4172,
+      "value": 2
+    },
+    {
+      "source": "Annadurai, Shri C.N.",
+      "target": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "topic": "Productivity  in  Fisheries  and  Aquaculture Sector  under  PMMSY",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4172,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Anumula Revanth",
+      "target": "PRIME MINISTER",
+      "topic": "Exploration  of  Uranium",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.576,
+      "value": 2
+    },
+    {
+      "source": "Karunanidhi, Smt. Kanimozhi",
+      "target": "RAILWAYS",
+      "topic": "Vacant  Posts  in  Railways",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4882,
+      "value": 2
+    },
+    {
+      "source": "Natarajan, Shri P.R.",
+      "target": "RAILWAYS",
+      "topic": "Vacant  Posts  in  Railways",
+      "party": "Communist Party of India (Marxist)",
+      "label": "neutral",
+      "score": 0.4882,
+      "value": 2
+    },
+    {
+      "source": "Mahtab, Shri Bhartruhari",
+      "target": "RAILWAYS",
+      "topic": "Smart  Stations  in  Odisha",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.5126,
+      "value": 2
+    },
+    {
+      "source": "V.K. Sreekandan, Shri",
+      "target": "MINES",
+      "topic": "Mining  in  Sea",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.546,
+      "value": 2
+    },
+    {
+      "source": "Ahmed, Smt. Sajda",
+      "target": "TEXTILES",
+      "topic": "Export  of  Raw  Cotton  and  Jute",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.4705,
+      "value": 2
+    },
+    {
+      "source": "T. Sumathy (A) Thamizhachi Thangapandian, Dr.",
+      "target": "EARTH SCIENCES",
+      "topic": "Establishment  of  DAMU",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5258,
+      "value": 2
+    },
+    {
+      "source": "Samanta, Shri Achyutananda",
+      "target": "TEXTILES",
+      "topic": "Revival  of  Textile  Industry",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.608,
+      "value": 2
+    },
+    {
+      "source": "Rehman, Shri Haji Fazlur",
+      "target": "TEXTILES",
+      "topic": "Promotion  of  Textile  Industry",
+      "party": "Bahujan Samaj Party",
+      "label": "neutral",
+      "score": 0.508,
+      "value": 2
+    },
+    {
+      "source": "Ajmal, Maulana Badruddin",
+      "target": "TEXTILES",
+      "topic": "Jute  Production",
+      "party": "All India United Democratic Front",
+      "label": "negative",
+      "score": 0.4058,
+      "value": 1
+    },
+    {
+      "source": "Ulaka, Shri Saptagiri Sankar",
+      "target": "RAILWAYS",
+      "topic": "Extension  of  Nuapada-Gunupur  Railway  Line",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.628,
+      "value": 2
+    },
+    {
+      "source": "Jadhav, Shri Sanjay Haribhau",
+      "target": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "topic": "Food  Wastage  Reduction  Policy",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5229,
+      "value": 2
+    },
+    {
+      "source": "Rajenimbalkar, Shri Omprakash Bhupalsingh alias Pavan",
+      "target": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "topic": "Food  Wastage  Reduction  Policy",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5229,
+      "value": 2
+    },
+    {
+      "source": "Chinraj, Shri A.K.P.",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Sale  of  Adulterated  Diesel/Petrol",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5484,
+      "value": 2
+    },
+    {
+      "source": "Ramesh, Shri T.R.V.S.",
+      "target": "HOUSING AND URBAN AFFAIRS",
+      "topic": "Number  of  Homeless  People",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5004,
+      "value": 2
+    },
+    {
+      "source": "Beesetti , Dr. Venkata Satyavathi",
+      "target": "JAL SHAKTI",
+      "topic": "PDFs  of  Polavaram  Project",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.539,
+      "value": 2
+    },
+    {
+      "source": "Shewale, Shri Rahul Ramesh",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Extension  of  Benefits  of  PMUY",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4692,
+      "value": 2
+    },
+    {
+      "source": "Haridas, Ms. Ramya",
+      "target": "NEW AND RENEWABLE ENERGY",
+      "topic": "New  and  Renewable  Energy  Projects",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.7204,
+      "value": 2
+    },
+    {
+      "source": "Chazhikadan, Shri Thomas",
+      "target": "ROAD TRANSPORT AND HIGHWAYS",
+      "topic": "Impact  of  Motor  Vehicles  (Amendment)  Act, 2019",
+      "party": "Kerala Congress (M)",
+      "label": "neutral",
+      "score": 0.7323,
+      "value": 2
+    },
+    {
+      "source": "Jadhav, Shri Sanjay Haribhau",
+      "target": "JAL SHAKTI",
+      "topic": "CADWM",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5638,
+      "value": 2
+    },
+    {
+      "source": "Yadav, Shri Dinesh Chandra",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Crude  Oil  Price",
+      "party": "Janata Dal (United)",
+      "label": "neutral",
+      "score": 0.5031,
+      "value": 2
+    },
+    {
+      "source": "Vishnu Prasad, Dr. M.K.",
+      "target": "CIVIL AVIATION",
+      "topic": "Development  of  Infrastructure  at  Airports  in Tamil Nadu",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.6966,
+      "value": 2
+    },
+    {
+      "source": "Baij, Shri Deepak",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Price  of  Commercial  and  Domestic  LPG",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5898,
+      "value": 2
+    },
+    {
+      "source": "Godse, Shri Hemant Tukaram",
+      "target": "PETROLEUM AND NATURAL GAS",
+      "topic": "Piped  Cooking  Gas  Supply",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4868,
+      "value": 2
+    },
+    {
+      "source": "Ray, Prof. Sougata",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Cases  of  Leprosy",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.4294,
+      "value": 2
+    },
+    {
+      "source": "Ulaka, Shri Saptagiri Sankar",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Children  Suffering  from  Malnutrition",
+      "party": "Indian National Congress",
+      "label": "negative",
+      "score": 0.432,
+      "value": 1
+    },
+    {
+      "source": "Vichare, Shri Rajan Baburao",
+      "target": "AYUSH",
+      "topic": "Measures  to  Improve  AYUSH  Infrastructure",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5432,
+      "value": 2
+    },
+    {
+      "source": "Rao, Shri Nama Nageswara",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Supply  of  Chemicals  &  Fertilizers",
+      "party": "Telangana Rashtra Samithi",
+      "label": "neutral",
+      "score": 0.4396,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri P.V. Midhun",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Supply  of  Chemicals  &  Fertilizers",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4396,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Magunta Sreenivasulu",
+      "target": "PORTS, SHIPPING AND WATERWAYS",
+      "topic": "Coastal  Development  Projects",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.6202,
+      "value": 2
+    },
+    {
+      "source": "Kathir Anand, Shri Durai Murugan",
+      "target": "DEFENCE",
+      "topic": "Impact  of  Aero  India  Exhibition",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.6043,
+      "value": 2
+    },
+    {
+      "source": "Annadurai, Shri C.N.",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Schemes  under  National  Nutrition  Mission",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4668,
+      "value": 2
+    },
+    {
+      "source": "Mandal, Smt. Manjulata",
+      "target": "WOMEN AND CHILD DEVELOPMENT",
+      "topic": "Schemes  under  National  Nutrition  Mission",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.4668,
+      "value": 2
+    },
+    {
+      "source": "Baalu, Shri Thalikkottai Rajuthevar",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Vulnerability  of  Diabetic  Patients  during COVID-19",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "negative",
+      "score": 0.5633,
+      "value": 1
+    },
+    {
+      "source": "Tagore B., Shri Manickam",
+      "target": "PORTS, SHIPPING AND WATERWAYS",
+      "topic": "New  Strategic  Ports",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4974,
+      "value": 2
+    },
+    {
+      "source": "Chinraj, Shri A.K.P.",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "JICA  funded  AIIMS  Institutes",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5269,
+      "value": 2
+    },
+    {
+      "source": "Kanumuru, Shri Raghu Ramakrishna Raju",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Use  of  Nano-Fertilizers",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4879,
+      "value": 2
+    },
+    {
+      "source": "Basheer, Shri E. T. Mohammed",
+      "target": "HEALTH AND FAMILY WELFARE",
+      "topic": "Corruption  in  Medical  Industry",
+      "party": "Indian Union Muslim League",
+      "label": "neutral",
+      "score": 0.4322,
+      "value": 2
+    },
+    {
+      "source": "Gavit, Shri Rajendra Dhedya",
+      "target": "AYUSH",
+      "topic": "Cosmetic  Products",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.5838,
+      "value": 2
+    },
+    {
+      "source": "Nallakonda Gari, Shri Reddeppa",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Effect  of  Russia-Ukraine  War  on  Stock  of Fertilizers",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4555,
+      "value": 2
+    },
+    {
+      "source": "Vanga, Smt. Geetha Viswanath",
+      "target": "CHEMICALS AND FERTILIZERS",
+      "topic": "Effect  of  Russia-Ukraine  War  on  Stock  of Fertilizers",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4555,
+      "value": 2
+    },
+    {
+      "source": "Nallakonda Gari, Shri Reddeppa",
+      "target": "FINANCE",
+      "topic": "Foreign  Investments  from  Neighbouring Countries",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.591,
+      "value": 2
+    },
+    {
+      "source": "Madhavi, Smt. Goddeti",
+      "target": "LABOUR AND EMPLOYMENT",
+      "topic": "Enrolment  under  PM-SYM  Scheme",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.4642,
+      "value": 2
+    },
+    {
+      "source": "Gavit, Shri Rajendra Dhedya",
+      "target": "TRIBAL AFFAIRS",
+      "topic": "Van  Dhan  Vikas  Yojana",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4381,
+      "value": 2
+    },
+    {
+      "source": "Ravikumar, Dr. D.",
+      "target": "EDUCATION",
+      "topic": "Minimum  Level  of  Learning  for  School Children",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5152,
+      "value": 2
+    },
+    {
+      "source": "Kodikunnil, Shri Suresh",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Release  of  Toxic  Air  from  Waste  Treatment Plant",
+      "party": "Indian National Congress",
+      "label": "negative",
+      "score": 0.5109,
+      "value": 1
+    },
+    {
+      "source": "Tumane, Shri Krupal Balaji",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Air  Pollution  from  Industries",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4765,
+      "value": 2
+    },
+    {
+      "source": "Bhavana Gawali (Patil), Ms.",
+      "target": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "topic": "Air  Pollution  from  Industries",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4765,
+      "value": 2
+    },
+    {
+      "source": "Mondal, Smt. Pratima",
+      "target": "EDUCATION",
+      "topic": "Placement  of  Students  availing  Scholarship  for Higher  Education",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.5508,
+      "value": 2
+    },
+    {
+      "source": "Adv. A. M. Ariff",
+      "target": "EDUCATION",
+      "topic": "Classical  Status  to  Indian  Languages",
+      "party": "Communist Party of India (Marxist)",
+      "label": "neutral",
+      "score": 0.5768,
+      "value": 2
+    },
+    {
+      "source": "Annadurai, Shri C.N.",
+      "target": "EDUCATION",
+      "topic": "Vacancy  of  Posts  Reserved  for  SC  and  ST  in Central  Universities",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4753,
+      "value": 2
+    },
+    {
+      "source": "Mandal, Smt. Manjulata",
+      "target": "EDUCATION",
+      "topic": "Vacancy  of  Posts  Reserved  for  SC  and  ST  in Central  Universities",
+      "party": "Biju Janata Dal",
+      "label": "neutral",
+      "score": 0.4753,
+      "value": 2
+    },
+    {
+      "source": "Rana, Smt Navneet Ravi",
+      "target": "FINANCE",
+      "topic": "Payment  of  dues  to  States",
+      "party": "Independent",
+      "label": "neutral",
+      "score": 0.632,
+      "value": 2
+    },
+    {
+      "source": "Singari, Dr. Sanjeev Kumar",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "District  Skill  Committee",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.652,
+      "value": 2
+    },
+    {
+      "source": "Chinta Anuradha, Smt.",
+      "target": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "topic": "District  Skill  Committee",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.652,
+      "value": 2
+    },
+    {
+      "source": "Sridhar, Shri Kotagiri",
+      "target": "FINANCE",
+      "topic": "GST  Compensation  Cess",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.637,
+      "value": 2
+    },
+    {
+      "source": "Ahmed, Smt. Sajda",
+      "target": "EDUCATION",
+      "topic": "Rating  of  Universities",
+      "party": "All India Trinamool Congress",
+      "label": "neutral",
+      "score": 0.4875,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri P.V. Midhun",
+      "target": "YOUTH AFFAIRS AND SPORTS",
+      "topic": "Progress  under  Khelo  India  Programme",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5521,
+      "value": 2
+    },
+    {
+      "source": "Ambareesh, Smt. Sumalatha",
+      "target": "PANCHAYATI RAJ",
+      "topic": "Coverage  under  SVAMITVA  Scheme",
+      "party": "Independent",
+      "label": "neutral",
+      "score": 0.5702,
+      "value": 2
+    },
+    {
+      "source": "Beesetti , Dr. Venkata Satyavathi",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "MIDH  Scheme  in  Andhra  Pradesh",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5371,
+      "value": 2
+    },
+    {
+      "source": "Velusamy, Shri P.",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "NICRA Project",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.5337,
+      "value": 2
+    },
+    {
+      "source": "Vishnu Prasad, Dr. M.K.",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "NICRA Project",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.5337,
+      "value": 2
+    },
+    {
+      "source": "Reddy, Shri Pocha Brahmananda",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Students  and  Faculty  Amenities  in  Agricultural Universities",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.5626,
+      "value": 2
+    },
+    {
+      "source": "Kanumuru, Shri Raghu Ramakrishna Raju",
+      "target": "FOOD PROCESSING INDUSTRIES",
+      "topic": "Startups  in  Food  Processing  Industry",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.6137,
+      "value": 2
+    },
+    {
+      "source": "Thirunavukkarasar, Shri Su.",
+      "target": "FOOD PROCESSING INDUSTRIES",
+      "topic": "Growth  in  Food  Processing  Sector",
+      "party": "Indian National Congress",
+      "label": "neutral",
+      "score": 0.4808,
+      "value": 2
+    },
+    {
+      "source": "Madhavi, Smt. Goddeti",
+      "target": "SOCIAL JUSTICE AND EMPOWERMENT",
+      "topic": "Construction  of  Hostels  for  SC/ST  Students",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "label": "neutral",
+      "score": 0.6091,
+      "value": 2
+    },
+    {
+      "source": "DNV Senthilkumar S, Dr.",
+      "target": "AGRICULTURE AND FARMERS WELFARE",
+      "topic": "Soil  Health  Card  Scheme",
+      "party": "Dravida Munnetra Kazhagam",
+      "label": "neutral",
+      "score": 0.4849,
+      "value": 2
+    },
+    {
+      "source": "Prince Raj, Shri",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Delay  in  Completion  of  Roads  by  Contractors under  PMGSY",
+      "party": "Lok Jan Shakti Party",
+      "label": "negative",
+      "score": 0.4447,
+      "value": 1
+    },
+    {
+      "source": "Jadhav, Shri Sanjay Haribhau",
+      "target": "RURAL DEVELOPMENT",
+      "topic": "Commencement  of  Work  under  next  Phase  of PMAY-G",
+      "party": "Shiv Sena",
+      "label": "neutral",
+      "score": 0.4571,
+      "value": 2
+    }
+  ],
+  "nodes": [
+    {
+      "id": "JAL SHAKTI",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PETROLEUM AND NATURAL GAS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "ROAD TRANSPORT AND HIGHWAYS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "HOUSING AND URBAN AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "POWER",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "NEW AND RENEWABLE ENERGY",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CIVIL AVIATION",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "HEALTH AND FAMILY WELFARE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "EXTERNAL AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "DEFENCE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "WOMEN AND CHILD DEVELOPMENT",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "AYUSH",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CHEMICALS AND FERTILIZERS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "LAW AND JUSTICE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PORTS, SHIPPING AND WATERWAYS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "LABOUR AND EMPLOYMENT",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "EDUCATION",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "FINANCE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "TOURISM",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CULTURE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "AGRICULTURE AND FARMERS WELFARE",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "FOOD PROCESSING INDUSTRIES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "YOUTH AFFAIRS AND SPORTS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "RURAL DEVELOPMENT",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PANCHAYATI RAJ",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "HEAVY INDUSTRIES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "INFORMATION AND BROADCASTING",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "SOCIAL JUSTICE AND EMPOWERMENT",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "COMMERCE AND INDUSTRY",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "MINES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "RAILWAYS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PLANNING",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "PRIME MINISTER",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "COMMUNICATIONS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "TEXTILES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "MINORITY AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "CORPORATE AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "TRIBAL AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "HOME AFFAIRS",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "TECHNOLOGY",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "COAL",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "DEVELOPMENT OF NORTH EASTERN REGION",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "EARTH SCIENCES",
+      "party": "GOI",
+      "state": "Republic of India",
+      "constituency": "Center",
+      "group": 10
+    },
+    {
+      "id": "Raut, Shri Vinayak Bhaurao",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Ratnagiri-Sindhudurg",
+      "group": 20
+    },
+    {
+      "id": "Delkar, Smt. Kalaben Mohanbhai",
+      "party": "Shiv Sena",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "constituency": "Dadra and Nagar Haveli",
+      "group": 20
+    },
+    {
+      "id": "Prakash, Adv. Adoor",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Attingal",
+      "group": 12
+    },
+    {
+      "id": "Owaisi, Shri Asaduddin",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "state": "Telangana",
+      "constituency": "Hyderabad",
+      "group": 1
+    },
+    {
+      "id": "Sawant, Shri Arvind Ganpat",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Mumbai-South",
+      "group": 20
+    },
+    {
+      "id": "Rajenimbalkar, Shri Omprakash Bhupalsingh alias Pavan",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Osmanabad",
+      "group": 20
+    },
+    {
+      "id": "Natarajan, Shri P.R.",
+      "party": "Communist Party of India (Marxist)",
+      "state": "Tamil Nadu",
+      "constituency": "Coimbatore",
+      "group": 8
+    },
+    {
+      "id": "Galla, Shri Jayadev",
+      "party": "Telugu Desam Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Guntur",
+      "group": 22
+    },
+    {
+      "id": "Ram Mohan Naidu, Shri Kinjarapu",
+      "party": "Telugu Desam Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Srikakulam",
+      "group": 22
+    },
+    {
+      "id": "Kumar, Shri Kaushalendra",
+      "party": "Janata Dal (United)",
+      "state": "Bihar",
+      "constituency": "Nalanda",
+      "group": 14
+    },
+    {
+      "id": "Khaleque, Shri Abdul",
+      "party": "Indian National Congress",
+      "state": "Assam",
+      "constituency": "Barpeta",
+      "group": 12
+    },
+    {
+      "id": "Vanga, Smt. Geetha Viswanath",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Kakinada",
+      "group": 24
+    },
+    {
+      "id": "Mane, Shri Dhairyasheel S.",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Hatkanangle",
+      "group": 20
+    },
+    {
+      "id": "Baalu, Shri Thalikkottai Rajuthevar",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Sriperumbudur",
+      "group": 9
+    },
+    {
+      "id": "Jadhav, Shri Sanjay Haribhau",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Parbhani",
+      "group": 20
+    },
+    {
+      "id": "Annadurai, Shri C.N.",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Tiruvannamalai",
+      "group": 9
+    },
+    {
+      "id": "Mandal, Smt. Manjulata",
+      "party": "Biju Janata Dal",
+      "state": "Odisha",
+      "constituency": "Bhadrak",
+      "group": 6
+    },
+    {
+      "id": "Ray, Prof. Sougata",
+      "party": "All India Trinamool Congress",
+      "state": "West Bengal",
+      "constituency": "Dum Dum",
+      "group": 2
+    },
+    {
+      "id": "Baij, Shri Deepak",
+      "party": "Indian National Congress",
+      "state": "Chhattisgarh",
+      "constituency": "Bastar",
+      "group": 12
+    },
+    {
+      "id": "Singh, Shri Ravneet",
+      "party": "Indian National Congress",
+      "state": "Punjab",
+      "constituency": "Ludhiana",
+      "group": 12
+    },
+    {
+      "id": "Beniwal, Shri Hanuman",
+      "party": "Rashtriya Loktantrik Party",
+      "state": "Rajasthan",
+      "constituency": "Nagaur",
+      "group": 18
+    },
+    {
+      "id": "Mondal, Shri Sunil Kumar",
+      "party": "All India Trinamool Congress",
+      "state": "West Bengal",
+      "constituency": "Bardhaman Purba",
+      "group": 2
+    },
+    {
+      "id": "Ajmal, Maulana Badruddin",
+      "party": "All India United Democratic Front",
+      "state": "Assam",
+      "constituency": "Dhubri",
+      "group": 3
+    },
+    {
+      "id": "Singh, Shri Rajiv Ranjan Alias Lalan Singh",
+      "party": "Janata Dal (United)",
+      "state": "Bihar",
+      "constituency": "Munger",
+      "group": 14
+    },
+    {
+      "id": "Mandlik, Prof. Sanjay Sadashivrao",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Kolhapur",
+      "group": 20
+    },
+    {
+      "id": "Muraleedharan, Shri K.",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Vadakara",
+      "group": 12
+    },
+    {
+      "id": "Tagore B., Shri Manickam",
+      "party": "Indian National Congress",
+      "state": "Tamil Nadu",
+      "constituency": "Virudhunagar",
+      "group": 12
+    },
+    {
+      "id": "Manne, Shri Srinivas Reddy",
+      "party": "Telangana Rashtra Samithi",
+      "state": "Telangana",
+      "constituency": "Mahabubnagar",
+      "group": 21
+    },
+    {
+      "id": "Nallakonda Gari, Shri Reddeppa",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Chittoor",
+      "group": 24
+    },
+    {
+      "id": "Rao, Shri Nama Nageswara",
+      "party": "Telangana Rashtra Samithi",
+      "state": "Telangana",
+      "constituency": "Khammam",
+      "group": 21
+    },
+    {
+      "id": "Shewale, Shri Rahul Ramesh",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Mumbai South-Central",
+      "group": 20
+    },
+    {
+      "id": "Vallabbhaneni, Shri Balashowry",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Machilipatnam",
+      "group": 24
+    },
+    {
+      "id": "Lavu, Shri Sri Krishna Devarayalu",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Narasaraopet",
+      "group": 24
+    },
+    {
+      "id": "Adv. A. M. Ariff",
+      "party": "Communist Party of India (Marxist)",
+      "state": "Kerala",
+      "constituency": "Alappuzha",
+      "group": 8
+    },
+    {
+      "id": "Unnithan, Shri Rajmohan",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Kasaragod",
+      "group": 12
+    },
+    {
+      "id": "Kolhe, Dr. Amol Ramsing",
+      "party": "Nationalist Congress Party",
+      "state": "Maharashtra",
+      "constituency": "Shirur",
+      "group": 17
+    },
+    {
+      "id": "Sule, Smt. Supriya Sadanand",
+      "party": "Nationalist Congress Party",
+      "state": "Maharashtra",
+      "constituency": "Baramati",
+      "group": 17
+    },
+    {
+      "id": "Kora, Smt. Geeta",
+      "party": "Indian National Congress",
+      "state": "Jharkhand",
+      "constituency": "Singhbhum",
+      "group": 12
+    },
+    {
+      "id": "Patil, Shri Bheemrao Baswanthrao",
+      "party": "Telangana Rashtra Samithi",
+      "state": "Telangana",
+      "constituency": "Zahirabad",
+      "group": 21
+    },
+    {
+      "id": "Sudhakaran, Shri Kumbakudi",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Kannur",
+      "group": 12
+    },
+    {
+      "id": "Moitra, Smt. Mahua",
+      "party": "All India Trinamool Congress",
+      "state": "West Bengal",
+      "constituency": "Krishnanagar",
+      "group": 2
+    },
+    {
+      "id": "Sunil Kumar Pintu, Shri",
+      "party": "Janata Dal (United)",
+      "state": "Bihar",
+      "constituency": "Sitamarhi",
+      "group": 14
+    },
+    {
+      "id": "Ambareesh, Smt. Sumalatha",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Mandya",
+      "group": 11
+    },
+    {
+      "id": "Margani, Shri Bharat Ram",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Rajahmundry",
+      "group": 24
+    },
+    {
+      "id": "Reddy, Shri Pocha Brahmananda",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Nandyal",
+      "group": 24
+    },
+    {
+      "id": "Kumar, Shri Dhanush M",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Tenkasi",
+      "group": 9
+    },
+    {
+      "id": "Selvam, Shri Ganesan",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Kancheepuram",
+      "group": 9
+    },
+    {
+      "id": "Godse, Shri Hemant Tukaram",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Nashik",
+      "group": 20
+    },
+    {
+      "id": "Bellana, Shri Chandra Sekhar",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Vizianagaram",
+      "group": 24
+    },
+    {
+      "id": "Reddy, Shri Adala Prabhakara",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Nellore",
+      "group": 24
+    },
+    {
+      "id": "Rana, Smt Navneet Ravi",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Amravati",
+      "group": 11
+    },
+    {
+      "id": "Benny, Shri Behanan",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Chalakudy",
+      "group": 12
+    },
+    {
+      "id": "Raghavan, Shri M. K.",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Kozhikode",
+      "group": 12
+    },
+    {
+      "id": "K. Navas, Shri Kani",
+      "party": "Indian Union Muslim League",
+      "state": "Tamil Nadu",
+      "constituency": "Ramanathapuram",
+      "group": 13
+    },
+    {
+      "id": "Sahu, Shri Chandra Sekhar",
+      "party": "Biju Janata Dal",
+      "state": "Odisha",
+      "constituency": "Berhampur",
+      "group": 6
+    },
+    {
+      "id": "Reddy, Dr. Gaddam Ranjith",
+      "party": "Telangana Rashtra Samithi",
+      "state": "Telangana",
+      "constituency": "Chevella",
+      "group": 21
+    },
+    {
+      "id": "Maloth, Smt. Kavitha",
+      "party": "Telangana Rashtra Samithi",
+      "state": "Telangana",
+      "constituency": "Mahabubabad",
+      "group": 21
+    },
+    {
+      "id": "Reddy, Shri Uttam Kumar Nalamada",
+      "party": "Indian National Congress",
+      "state": "Telangana",
+      "constituency": "Nalgonda",
+      "group": 12
+    },
+    {
+      "id": "Yadav, Shri Dinesh Chandra",
+      "party": "Janata Dal (United)",
+      "state": "Bihar",
+      "constituency": "Madhepura",
+      "group": 14
+    },
+    {
+      "id": "Kirtikar, Shri Gajanan Chandrakant",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Mumbai-North-West",
+      "group": 20
+    },
+    {
+      "id": "Thirumaavalavan, Dr. Tholkappiyan",
+      "party": "Viduthalai Chiruthaigal Katchi",
+      "state": "Tamil Nadu",
+      "constituency": "Chidambaram",
+      "group": 23
+    },
+    {
+      "id": "A. Raja, Shri",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Nilgiris",
+      "group": 9
+    },
+    {
+      "id": "Shinde, Dr. Shrikant Eknath",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Kalyan",
+      "group": 20
+    },
+    {
+      "id": "Paarivendhar, Dr. T. R.",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Perambalur",
+      "group": 9
+    },
+    {
+      "id": "Bordoloi, Shri Pradyut",
+      "party": "Indian National Congress",
+      "state": "Assam",
+      "constituency": "Nawgong",
+      "group": 12
+    },
+    {
+      "id": "Mallick, Dr. Rajashree",
+      "party": "Biju Janata Dal",
+      "state": "Odisha",
+      "constituency": "Jagatsinghpur",
+      "group": 6
+    },
+    {
+      "id": "Sahoo, Shri Mahesh",
+      "party": "Biju Janata Dal",
+      "state": "Odisha",
+      "constituency": "Dhenkanal",
+      "group": 6
+    },
+    {
+      "id": "Singh, Shri Mahabali",
+      "party": "Janata Dal (United)",
+      "state": "Bihar",
+      "constituency": "Karakat",
+      "group": 14
+    },
+    {
+      "id": "Karunanidhi, Smt. Kanimozhi",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Thoothukkudi",
+      "group": 9
+    },
+    {
+      "id": "Ruhi, MS. Nusrat Jahan",
+      "party": "All India Trinamool Congress",
+      "state": "West Bengal",
+      "constituency": "Basirhat",
+      "group": 2
+    },
+    {
+      "id": "Kalanidhi, Dr. Veeraswamy",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Chennai North",
+      "group": 9
+    },
+    {
+      "id": "Ahmed, Smt. Sajda",
+      "party": "All India Trinamool Congress",
+      "state": "West Bengal",
+      "constituency": "Uluberia",
+      "group": 2
+    },
+    {
+      "id": "Kathir Anand, Shri Durai Murugan",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Vellore",
+      "group": 9
+    },
+    {
+      "id": "Ulaka, Shri Saptagiri Sankar",
+      "party": "Indian National Congress",
+      "state": "Odisha",
+      "constituency": "Koraput",
+      "group": 12
+    },
+    {
+      "id": "Tatkare, Shri Sunil Dattatray",
+      "party": "Nationalist Congress Party",
+      "state": "Maharashtra",
+      "constituency": "Raigad",
+      "group": 17
+    },
+    {
+      "id": "Prasad, Shri Chandeshwar",
+      "party": "Janata Dal (United)",
+      "state": "Bihar",
+      "constituency": "Jahanabad",
+      "group": 14
+    },
+    {
+      "id": "Goswami, Shri Dulal Chandra",
+      "party": "Janata Dal (United)",
+      "state": "Bihar",
+      "constituency": "Katihar",
+      "group": 14
+    },
+    {
+      "id": "Kesineni, Shri Srinivas",
+      "party": "Telugu Desam Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Vijayawada",
+      "group": 22
+    },
+    {
+      "id": "Kanumuru, Shri Raghu Ramakrishna Raju",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Narsapuram",
+      "group": 24
+    },
+    {
+      "id": "Sardinha, Shri Francisco Cosme",
+      "party": "Indian National Congress",
+      "state": "Goa",
+      "constituency": "South Goa",
+      "group": 12
+    },
+    {
+      "id": "Reddy, Shri Y. S. Avinash",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "kadapa",
+      "group": 24
+    },
+    {
+      "id": "Nagar, Shri Malook",
+      "party": "Bahujan Samaj Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bijnor",
+      "group": 4
+    },
+    {
+      "id": "Ravikumar, Dr. D.",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Viluppuram",
+      "group": 9
+    },
+    {
+      "id": "Suman, Dr. Alok Kumar",
+      "party": "Janata Dal (United)",
+      "state": "Bihar",
+      "constituency": "Gopalganj",
+      "group": 14
+    },
+    {
+      "id": "Barne, Shri Shrirang Appa",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Maval",
+      "group": 20
+    },
+    {
+      "id": "Ganeshamurthi, Shri A.",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Erode",
+      "group": 9
+    },
+    {
+      "id": "Subbarayan, Shri K.",
+      "party": "Communist Party of India",
+      "state": "Tamil Nadu",
+      "constituency": "Tiruppur",
+      "group": 7
+    },
+    {
+      "id": "Azad, Smt. Sangeeta",
+      "party": "Bahujan Samaj Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Lalganj",
+      "group": 4
+    },
+    {
+      "id": "T. Sumathy (A) Thamizhachi Thangapandian, Dr.",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Chennai South",
+      "group": 9
+    },
+    {
+      "id": "Venkatesan, Shri S.",
+      "party": "Communist Party of India (Marxist)",
+      "state": "Tamil Nadu",
+      "constituency": "Madurai",
+      "group": 8
+    },
+    {
+      "id": "Premachandran, Shri N.K.",
+      "party": "Revolutionary Socialist Party",
+      "state": "Kerala",
+      "constituency": "Kollam",
+      "group": 19
+    },
+    {
+      "id": "Eden, Shri Hibi",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Ernakulam",
+      "group": 12
+    },
+    {
+      "id": "Reddy, Shri Komati Reddy Venkat",
+      "party": "Indian National Congress",
+      "state": "Telangana",
+      "constituency": "Bhongir",
+      "group": 12
+    },
+    {
+      "id": "Velusamy, Shri P.",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Dindigul",
+      "group": 9
+    },
+    {
+      "id": "Mohanty, Shri Anubhav",
+      "party": "Biju Janata Dal",
+      "state": "Odisha",
+      "constituency": "Kendrapara",
+      "group": 6
+    },
+    {
+      "id": "Beesetti , Dr. Venkata Satyavathi",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Anakapalle",
+      "group": 24
+    },
+    {
+      "id": "Kunwar Danish Ali",
+      "party": "Bahujan Samaj Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Amroha",
+      "group": 4
+    },
+    {
+      "id": "Singh, Dr. Amar",
+      "party": "Indian National Congress",
+      "state": "Punjab",
+      "constituency": "Fatehgarh Sahib",
+      "group": 12
+    },
+    {
+      "id": "Jawed, Dr. Mohammad",
+      "party": "Indian National Congress",
+      "state": "Bihar",
+      "constituency": "Kishanganj",
+      "group": 12
+    },
+    {
+      "id": "Gogoi, Shri Gaurav",
+      "party": "Indian National Congress",
+      "state": "Assam",
+      "constituency": "Kaliabor",
+      "group": 12
+    },
+    {
+      "id": "Chinta Anuradha, Smt.",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Amalapuram",
+      "group": 24
+    },
+    {
+      "id": "Pala, Shri Vincent H.",
+      "party": "Indian National Congress",
+      "state": "Meghalaya",
+      "constituency": "Shillong",
+      "group": 12
+    },
+    {
+      "id": "Reddy, Shri Magunta Sreenivasulu",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Ongole",
+      "group": 24
+    },
+    {
+      "id": "Sethi, Smt. Sarmistha Kumari",
+      "party": "Biju Janata Dal",
+      "state": "Odisha",
+      "constituency": "Jajpur",
+      "group": 6
+    },
+    {
+      "id": "Borlakunta, Shri Venkatesh Netha",
+      "party": "Telangana Rashtra Samithi",
+      "state": "Telangana",
+      "constituency": "Peddapalle",
+      "group": 21
+    },
+    {
+      "id": "Gavit, Shri Rajendra Dhedya",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Palghar",
+      "group": 20
+    },
+    {
+      "id": "DNV Senthilkumar S, Dr.",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Dharmapuri",
+      "group": 9
+    },
+    {
+      "id": "Tewari, Shri Manish",
+      "party": "Indian National Congress",
+      "state": "Punjab",
+      "constituency": "Anandpur Sahib",
+      "group": 12
+    },
+    {
+      "id": "Aujla, Shri Gurjeet Singh",
+      "party": "Indian National Congress",
+      "state": "Punjab",
+      "constituency": "Amritsar",
+      "group": 12
+    },
+    {
+      "id": "Sridhar, Shri Kotagiri",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Eluru",
+      "group": 24
+    },
+    {
+      "id": "Sundaram, Shri K. Shanmuga",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Pollachi",
+      "group": 9
+    },
+    {
+      "id": "Kuriakose, Adv. Dean",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Idukki",
+      "group": 12
+    },
+    {
+      "id": "Reddy, Shri Kotha Prabhakar",
+      "party": "Telangana Rashtra Samithi",
+      "state": "Telangana",
+      "constituency": "Medak",
+      "group": 21
+    },
+    {
+      "id": "Singari, Dr. Sanjeev Kumar",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Kurnool",
+      "group": 24
+    },
+    {
+      "id": "Samanta, Shri Achyutananda",
+      "party": "Biju Janata Dal",
+      "state": "Odisha",
+      "constituency": "Kandhamal",
+      "group": 6
+    },
+    {
+      "id": "Patil, Shri Shriniwas Dadasaheb",
+      "party": "Nationalist Congress Party",
+      "state": "Maharashtra",
+      "constituency": "Satara",
+      "group": 17
+    },
+    {
+      "id": "Majhi, Shri Ramesh Chandra",
+      "party": "Biju Janata Dal",
+      "state": "Odisha",
+      "constituency": "Nabarangpur",
+      "group": 6
+    },
+    {
+      "id": "Tumane, Shri Krupal Balaji",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Ramtek",
+      "group": 20
+    },
+    {
+      "id": "Bhavana Gawali (Patil), Ms.",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Yavatmal-Washim",
+      "group": 20
+    },
+    {
+      "id": "Syed Imtiaz Jaleel, Shri",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "state": "Maharashtra",
+      "constituency": "Aurangabad",
+      "group": 1
+    },
+    {
+      "id": "Satyanarayana, Shri M V V",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Visakhapatnam",
+      "group": 24
+    },
+    {
+      "id": "Kamait, Shri Dileshwar",
+      "party": "Janata Dal (United)",
+      "state": "Bihar",
+      "constituency": "Supaul",
+      "group": 14
+    },
+    {
+      "id": "Vijayakumar (Alias) Vijay Vasanth , Shri",
+      "party": "Indian National Congress",
+      "state": "Tamil Nadu",
+      "constituency": "Kanniyakumari",
+      "group": 12
+    },
+    {
+      "id": "Reddy, Shri Anumula Revanth",
+      "party": "Indian National Congress",
+      "state": "Telangana",
+      "constituency": "Malkajgiri",
+      "group": 12
+    },
+    {
+      "id": "Mahtab, Shri Bhartruhari",
+      "party": "Biju Janata Dal",
+      "state": "Odisha",
+      "constituency": "Cuttack",
+      "group": 6
+    },
+    {
+      "id": "V.K. Sreekandan, Shri",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Palakkad",
+      "group": 12
+    },
+    {
+      "id": "Rehman, Shri Haji Fazlur",
+      "party": "Bahujan Samaj Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Saharanpur",
+      "group": 4
+    },
+    {
+      "id": "Chinraj, Shri A.K.P.",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Namakkal",
+      "group": 9
+    },
+    {
+      "id": "Ramesh, Shri T.R.V.S.",
+      "party": "Dravida Munnetra Kazhagam",
+      "state": "Tamil Nadu",
+      "constituency": "Cuddalore",
+      "group": 9
+    },
+    {
+      "id": "Haridas, Ms. Ramya",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Alathur",
+      "group": 12
+    },
+    {
+      "id": "Chazhikadan, Shri Thomas",
+      "party": "Kerala Congress (M)",
+      "state": "Kerala",
+      "constituency": "Kottayam",
+      "group": 15
+    },
+    {
+      "id": "Vishnu Prasad, Dr. M.K.",
+      "party": "Indian National Congress",
+      "state": "Tamil Nadu",
+      "constituency": "Arani",
+      "group": 12
+    },
+    {
+      "id": "Vichare, Shri Rajan Baburao",
+      "party": "Shiv Sena",
+      "state": "Maharashtra",
+      "constituency": "Thane",
+      "group": 20
+    },
+    {
+      "id": "Reddy, Shri P.V. Midhun",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Rajampet",
+      "group": 24
+    },
+    {
+      "id": "Basheer, Shri E. T. Mohammed",
+      "party": "Indian Union Muslim League",
+      "state": "Kerala",
+      "constituency": "Ponnani",
+      "group": 13
+    },
+    {
+      "id": "Madhavi, Smt. Goddeti",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "state": "Andhra Pradesh",
+      "constituency": "Araku",
+      "group": 24
+    },
+    {
+      "id": "Kodikunnil, Shri Suresh",
+      "party": "Indian National Congress",
+      "state": "Kerala",
+      "constituency": "Mavelikkara",
+      "group": 12
+    },
+    {
+      "id": "Mondal, Smt. Pratima",
+      "party": "All India Trinamool Congress",
+      "state": "West Bengal",
+      "constituency": "Jaynagar",
+      "group": 2
+    },
+    {
+      "id": "Thirunavukkarasar, Shri Su.",
+      "party": "Indian National Congress",
+      "state": "Tamil Nadu",
+      "constituency": "Tiruchirappalli",
+      "group": 12
+    },
+    {
+      "id": "Prince Raj, Shri",
+      "party": "Lok Jan Shakti Party",
+      "state": "Bihar",
+      "constituency": "Samastipur",
+      "group": 16
+    }
+  ],
+  "directed": [true]
+}
