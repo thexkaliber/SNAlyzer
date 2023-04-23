@@ -1,0 +1,10 @@
+Package: snalyzer
+Type: Package
+Title: SNAlyzer
+Version: 0.1.0
+Author: Srihari
+Maintainer: XKaliber <srihariguy@gmail.com>
+Description: Social Network Analysis Tool for Indian Politics
+License: MIT License
+Encoding: UTF-8
+LazyData: true
