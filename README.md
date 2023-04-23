@@ -3,7 +3,7 @@ SNAlyzer is a Social Network Analysis Tool to explore Lok Sabha Networks through
 
 This project was bootstraped with [CRA](https://github.com/facebook/create-react-app)
 
-Pre-requisites:
+## Pre-requisites
 
 GhostImage
 
@@ -13,7 +13,7 @@ Reticulate
 
 Visual Studio Build Tools
 
-Special Thanks
+## Special Thanks
 
 [React Icons](https://react-icons.github.io/react-icons/) for their icons.
 
