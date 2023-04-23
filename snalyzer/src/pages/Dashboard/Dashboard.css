@@ -1,0 +1,69 @@
+/*Dashboard.js*/
+.toggleButton {
+    float: right;
+    background-color: lightgray;
+    border: 0;
+    border-radius: 98px;
+    cursor: pointer;
+    height: 21px;
+    position: relative;
+    width: 40px;
+    --webkit-appearance: none;
+    --moz-appearance: none;
+  }
+  
+  .toggleButton:hover { background-color: lightgray; }
+  .toggleButton:focus,
+  .toggleButton:active { outline: none; }
+  .toggleButton::-moz-focus-inner { border: 0; }
+  
+  .pin {
+    float: right;
+    background-color: white;
+    border-radius: 98px;
+    height: 19px;
+    left: 2px;
+    position: absolute;
+    top: 1px;
+    width: 19px;
+    transition: left ease .5s;
+  }
+  
+  .toggleButton.All {
+    background-color: blue;
+  }
+  
+  .toggleButton.All .pin {
+    left: 19px;
+  }
+  
+  
+  .FrequencyCloud{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .Frequency{
+    flex: 1 0;
+    box-sizing: border-box;
+  
+  }
+  .Cloud{
+    box-sizing: border-box;
+    flex: 1 0;
+  }
+  
+  .sentimentQues{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .sentimentChart{
+    flex: 1 0;
+    box-sizing: border-box;
+  
+  }
+  .QuesChange{
+    box-sizing: border-box;
+    flex: 1 0;
+  }

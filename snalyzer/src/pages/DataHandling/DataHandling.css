@@ -1,0 +1,17 @@
+/*Data Handling.js*/
+
+.Handlers{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.scrapingLogs{
+    flex: 1 0;
+    box-sizing: border-box;
+    margin: 10px;
+
+}
+.uploadHandler{
+    flex: 1 0;
+    margin: 10px;
+}

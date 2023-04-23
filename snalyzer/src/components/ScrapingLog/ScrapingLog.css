@@ -1,0 +1,11 @@
+/*ScrapingLog.js*/
+.logMsgs {
+    position: relative;
+    display: flex;
+    margin-bottom: 10px;
+    background-color: var(--input-bg);
+    font-weight: bold;
+    width: auto;
+    padding: 15px;
+    border-radius: 20px;
+}

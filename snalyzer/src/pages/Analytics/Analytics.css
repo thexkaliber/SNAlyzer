@@ -1,0 +1,17 @@
+/*Analtyics.js*/
+
+.choroCSV{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .choroContainer{
+    flex: 1 0;
+    box-sizing: border-box;
+  
+  }
+  .csvContainer{
+    box-sizing: border-box;
+    flex: 1 0;
+  }
+  

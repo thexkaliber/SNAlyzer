@@ -1,0 +1,70 @@
+[
+    {
+      "year": "2023",
+      "groups": [
+        {
+          "name": "All Parties",
+          "code":"all"
+        },
+        {
+          "name": "Ruling Party",
+          "code":"ruling"
+        },
+        {
+          "name": "Opposition Parties",
+          "code": "opposition"
+        }
+      ]
+    },
+    {
+        "year": "2022",
+        "groups": [
+            {
+              "name": "All Parties",
+              "code":"all"
+            },
+            {
+              "name": "Ruling Party",
+              "code":"ruling"
+            },
+            {
+              "name": "Opposition Parties",
+              "code": "opposition"
+            }
+          ]
+      },
+      {
+        "year": "2021",
+        "groups": [
+          {
+            "name": "All Parties",
+            "code":"all"
+          },
+          {
+            "name": "Ruling Party",
+            "code":"ruling"
+          },
+          {
+            "name": "Opposition Parties",
+            "code": "opposition"
+          }
+        ]
+      },
+      {
+        "year": "2020",
+        "groups": [
+            {
+              "name": "All Parties",
+              "code":"all"
+            },
+            {
+              "name": "Ruling Party",
+              "code":"ruling"
+            },
+            {
+              "name": "Opposition Parties",
+              "code": "opposition"
+            }
+          ]
+      }
+  ]

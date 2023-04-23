@@ -1,0 +1,21 @@
+.dropdownContainer{
+    display:flex;
+    flex-wrap: wrap;
+    width: 600px;
+}
+
+.dropdownYear{
+    flex: 1 0;
+    margin: 10px;
+}
+
+.dropdownGroup{
+    flex: 1 0;
+    margin: 10px;
+}
+
+.dropdownClick{
+    flex: 1 0;  
+    width: 150px !important;
+    margin: 10px;
+}

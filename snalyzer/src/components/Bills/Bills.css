@@ -1,0 +1,54 @@
+/*Bills.js*/
+
+.bill-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .bill-table thead tr {
+    background-color: blue;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .bill-table th,
+  .bill-table td {
+    padding: 12px 15px;
+  }
+  
+  .bill-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  .bill-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+  .bill-table tbody tr:last-of-type {
+    border-bottom: 2px solid blue;
+  }
+  
+  .bill-table tbody tr.active-row {
+    font-weight: bold;
+    color: blue;
+  }
+  
+  .search-box{
+    width: 100%;
+    border: 3px solid blue;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+    outline: none;
+    color: black;
+  }
+  .search-container{
+  width: 30%;
+  margin-bottom: 10px;
+  }

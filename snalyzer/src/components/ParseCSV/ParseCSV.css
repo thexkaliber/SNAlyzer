@@ -1,0 +1,42 @@
+/*ParseCSV.js*/
+.upload-table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .upload-table thead tr {
+    background-color: blue;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .upload-table th,
+  .upload-table td {
+    padding: 12px 15px;
+  }
+  
+  .upload-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  .upload-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+  .upload-table tbody tr:last-of-type {
+    border-bottom: 2px solid blue;
+  }
+  
+  .upload-table tbody tr.active-row {
+    font-weight: bold;
+    color: blue;
+  }
+  

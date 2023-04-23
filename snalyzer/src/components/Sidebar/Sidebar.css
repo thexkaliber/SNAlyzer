@@ -1,0 +1,54 @@
+/*Sidebar.js*/
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+}
+.container{
+    display:flex;
+}
+main{
+    font-family: 'Roboto';
+    width: 100%;
+    padding: 20px;
+}
+.sidebar{
+    font-family: 'Roboto';
+    background: blue;
+    color: #fff;
+    min-height:110vh;
+    max-height:max-content;
+    overflow: hidden;
+    width: 200px;
+    transition: all 0.5s;
+}
+.top_section{
+    display: flex;
+    align-items:center;
+    padding:20px 15px;
+}
+.logo{
+    font-size: 20px;
+}
+.bars{
+    display: flex;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.link{
+    display: flex;
+    color: blue;
+    padding: 10px 15px;
+    gap: 15px;
+    transition: all 0.5s;
+}
+.link:hover{
+    background:white;
+    color: blue;
+}
+.active{
+
+    color: blue;
+}
+.icon, .link_text{
+    font-size: 20px;}

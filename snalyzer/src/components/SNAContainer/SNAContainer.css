@@ -1,0 +1,7 @@
+.tooltip {
+    fill: white;
+    font-family: sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+  }
