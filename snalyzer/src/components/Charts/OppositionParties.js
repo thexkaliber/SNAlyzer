@@ -17,7 +17,7 @@ const OppositionParties = () => {
       .domain(data.map((val, idx) => idx))
       .range([0, 300])
       .padding(0.5);
-      const sent = ['INC','Shiv Sena','DMK','YSRCP','BJD','JD(U)','AITC','TRS','NCP','BSP','TDP','CPI(M)','Independent','IUML','AIMEIM','CPI','RLP','LJSP','AIUDF','RSP']
+      const sent = ['INC','Shiv Sena','DMK','YSRCP','BJD','JD(U)','AITC','TRS','NCP','BSP','TDP','CPI(M)','Independent','IUML','AIMEIM','CPI','RLP','LJSP','AIUDF','RSP'] //At the time of development of the project, a previously unbroken Shiv Sena (under Thackarey) and JD(U) were not a part of NDA post 2019 Lok Sabha Elections. Shiv Sena (name now granted to Shinde Fanction) and JD(U) joined NDA in 2024
     const yScale = d3.scaleLinear()
       .domain([0, d3.max(data)])
       .range([150,0]);
