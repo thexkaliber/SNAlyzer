@@ -5,7 +5,7 @@ from thefuzz import process, fuzz
 import pickle
 import copy
 from py_pdf_parser.visualise import visualise
-
+#The code provided only works in the Legacy Sansad Website. Since the publishing of this work, the Sansad website has been renovated.
 
 def column_ordering_function(elements):
     """
@@ -32,7 +32,7 @@ def clean_body_text(text):
     body of the question
     """
     text = re.sub("_+", " ", text)          # remove footer line
-    text = re.sub(" .*Hindi", " ", text)    # remove language notice text
+    text = re.sub("Â .*Hindi", " ", text)    # remove language notice text
     text = text.encode("ascii", "ignore").decode()  # remove non-ascii characters
     text = re.sub(r"\n", r" ", text)        # remove new-lines
     text = re.sub(" +", " ", text)  # remove extra spaces
@@ -136,6 +136,8 @@ def print_element_list(element_list):
 def resolve_topics(question_contents, question_topics):
     # Issue found in Q.113 (29112021) and Q.2613 (14122021)
     # identify malformed questions: questions with more than <threshold> elements
+
+    #Note: The original work by Sammit Jain at https://github.com/sammitjain/loksabha-questions resolves only for the 2021 sessions. The changes needed to cover all edge cases from all sessions since 2019 has not been included in my repo as it is very messy.
     threshold = 17
     malformed_idx = []
     for idx, qc in enumerate(question_contents):
