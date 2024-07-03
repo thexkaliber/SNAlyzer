@@ -5,7 +5,6 @@ from thefuzz import process, fuzz
 import pickle
 import copy
 from py_pdf_parser.visualise import visualise
-#The code provided only works in the Legacy Sansad Website. Since the publishing of this work, the Sansad website has been renovated.
 
 def column_ordering_function(elements):
     """
