@@ -136,7 +136,8 @@ def resolve_topics(question_contents, question_topics):
     # Issue found in Q.113 (29112021) and Q.2613 (14122021)
     # identify malformed questions: questions with more than <threshold> elements
 
-    #Note: The original work by Sammit Jain at https://github.com/sammitjain/loksabha-questions resolves only for the 2021 sessions. The changes needed to cover all edge cases from all sessions since 2019 has not been included in my repo as it is very messy.
+    #Note: The original work by Sammit Jain at https://github.com/sammitjain/loksabha-questions resolves only for the 2021 sessions. The changes needed to cover all edge cases from all sessions since 2019 has not been included in my repo as it is very messy (and more importantly, having lost them in a data crash with only the generated CSVs on hand).
+    #Any additional changes can easily be written by using the visualization tool of Py_PDF_Parser
     threshold = 17
     malformed_idx = []
     for idx, qc in enumerate(question_contents):
