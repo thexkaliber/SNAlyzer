@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import logging
+#The code provided only works in the Legacy Sansad Website. Since the publishing of this work, the Sansad website has been renovated.
 
 chrome_options = Options()
 chrome_options.add_experimental_option("prefs", {
